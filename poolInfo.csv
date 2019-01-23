@@ -103,6 +103,7 @@ https://graft.spacepools.org,12,245
 https://graft.miner.rocks,12,247
 http://graft.usaminingpool.com,12,251
 https://pool.graft.community,12,252
+https://graft.cool-pool.net,12,255
 https://grft.cryptoblock.uk,12,260
 http://graftpool.graft.mnlabs.net,12,262
 https://mining.bit.tube,13,264
@@ -162,7 +163,9 @@ http://trtl.proxpool.com,29,350
 https://trtl.cryptohispano.net,29,352
 https://trtl.bluerockpools.net,29,353
 https://turtle.casa,29,354
+http://turtle.smartcoinpool.com,29,355
 https://trtl.codpool.com,29,356
+https://trtl.heigh-ho.funkypenguin.co.nz,29,357
 https://intense.fairhash.org/,16,359
 http://itns.proxpool.com,16,360
 http://itns.avensat.com,16,362
@@ -451,7 +454,6 @@ http://graft.hashing.mine.nu,12,1019
 https://graft.luckypool.io,12,1020
 https://grft.semipool.com,12,1021
 https://graft.smartcoinpool.com,12,1022
-https://wownero.minercartel.com,67,1025
 https://wow.majanetwork.com,67,1028
 https://wownero.luckypool.io,67,1029
 https://wownero.my-mining-pool.de,67,1031
@@ -652,7 +654,6 @@ https://communitypool.org/spes,87,1353
 https://etn.mine.pro,9,1355
 https://electromine.fr,9,1356
 https://electroneum.herominers.com,9,1363
-https://etn.easypool.pro,9,1364
 https://etn.pool.gntl.co.uk,9,1365
 https://etn.semipool.com,9,1367
 http://gdm.ms-pool.net.ua,125,1369
@@ -782,7 +783,6 @@ https://freehaven.majanetwork.com,243,1569
 http://85.214.99.91,243,1570
 https://freehaven.clevery.xyz,243,1572
 https://webird.semipool.com,14,1574
-https://communitypool.org/kepl,84,1575
 http://dero.getblock.club,7,1577
 https://webdero.semipool.com,7,1578
 https://websumo.semipool.com,26,1580
@@ -822,7 +822,6 @@ https://webetn.semipool.com,9,1637
 https://webkrb.semipool.com,18,1639
 https://easyhash.pro/bdx,240,1641
 https://beldex.smartcoinpool.com,240,1644
-https://communitypool.org/veronite,191,1645
 https://ryo.modpool.org,131,1646
 https://citicash.modpool.org,176,1649
 https://webtube.semipool.com,13,1651
@@ -1013,7 +1012,6 @@ https://crypto9coin.cf/upx,237,1955
 http://youpool.io/UPX,237,1957
 https://cnpool.cc/upx,237,1959
 https://arqma.minercountry.com,137,1960
-https://arq.hackerknowledge.de,137,1961
 https://wow.codpool.com,67,1962
 https://www.enigma-mining.de/pars,95,1963
 https://www.enigma-mining.de/elph,235,1964
