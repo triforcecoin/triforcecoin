@@ -484,12 +484,10 @@ http://idpool.majanetwork.com/xmr,1,1071
 https://www.dark-mine.su/monero,1,1074
 https://c3pool.com,1,1079
 https://minergate.com,1,1082
-https://monero.herominers.com,1,1088
 https://XMR.MyPool.Online,1,1091
 https://xmr.pool.gntl.co.uk,1,1093
 https://xmr.go-mine.it,1,1094
 https://xmr.semipool.com,1,1097
-https://citadel.herominers.com,91,1103
 https://citadel.my-mining-pool.de,91,1105
 http://youpool.io/CTL,91,1106
 https://communitypool.org/ctl,91,1107
@@ -652,11 +650,13 @@ http://superblockchain.con-ip.com/gdm,125,1371
 https://communitypool.org/b2b,2,1373
 http://coal.mining.garden,4,1374
 https://dashboard.bytecoin.party,3,1377
+https://plura.llama.horse,21,1379
 https://karbo.herominers.com,18,1382
 http://youpool.io/KARBO,18,1384
 https://krb.semipool.com,18,1385
 http://pool.balkancoin.org,49,1386
 http://bkc.bubblemine.com,49,1388
+https://bkc.go-mine.it,49,1390
 https://communitypool.org/dsh,206,1391
 https://beldex.luckypool.io,240,1394
 http://pool01.lithiumbit.com,101,1398
