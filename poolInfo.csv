@@ -567,7 +567,6 @@ https://xtri.minercountry.com,245,1192
 https://xtri.semipool.com,245,1193
 https://ttnz.xmining.pro,222,1194
 http://ttnz.m00n.top,222,1195
-https://ttnz.leafpool.com,222,1196
 http://youpool.io/TTNZ,222,1197
 http://cnpool.cc/ttnz,222,1198
 https://tritanium.smartcoinpool.com,222,1199
@@ -578,7 +577,6 @@ https://get.masaricoin.com,19,1203
 https://www.dark-mine.su/masari,19,1205
 https://masari.czechiapool.com,19,1208
 https://msr.majanetwork.com,19,1209
-https://msr.solopool.org,19,1210
 https://masari.herominers.com,19,1211
 https://msr.pool.gntl.co.uk,19,1213
 https://msr.go-mine.it,19,1214
@@ -588,6 +586,7 @@ https://plenteum.virtopia.ca,179,1218
 http://the-miners.de/Plenteum,179,1221
 https://plenteum.clevery.xyz,179,1222
 https://ple.optimusblue.com,179,1223
+http://plenteum.miner.care/,179,1224
 https://plenteum.my-mining-pool.de,179,1225
 http://cnpool.cc/xcy,231,1226
 https://xcy.cnpool.vip,231,1227
@@ -605,7 +604,6 @@ https://arms01.p2poolmining.us,180,1247
 https://arms.cnpools.space,180,1248
 https://communitypool.org/2acoin,180,1249
 https://trtl.ninja,29,1250
-https://turtle.atpool.party,29,1251
 https://trtl.llama.horse,29,1255
 https://trtl.hackerknowledge.de,29,1256
 https://turtle.hashvault.pro,29,1257
@@ -644,12 +642,9 @@ https://ird.majanetwork.com,14,1310
 https://ird.semipool.com,14,1311
 https://xao.blokspace.io,30,1313
 http://ukpool.electronero.org,120,1315
-http://etnx.hashfactory.online,120,1316
-https://etnx.majanetwork.com,120,1317
 https://etnx.semipool.com,120,1318
 http://pool.geemexplorer.com,116,1319
 https://dero.herominers.com,7,1322
-https://dero.easypool.pro,7,1323
 http://youpool.io/DERO,7,1326
 http://cnpool.cc/dero,7,1327
 https://dero.semipool.com,7,1328
@@ -670,7 +665,7 @@ https://communitypool.org/spes,87,1353
 https://etn.mine.pro,9,1355
 https://electromine.fr,9,1356
 https://electroneum.herominers.com,9,1363
-https://etn.easypool.pro,9,1364
+https://etn.pool.gntl.co.uk,9,1365
 https://etn.semipool.com,9,1367
 http://gdm.ms-pool.net.ua,125,1369
 http://gdm.bubblemine.com,125,1370
@@ -700,11 +695,9 @@ https://ryo.herominers.com,131,1414
 https://ryo.leafpool.com,131,1415
 https://mox.optimusblue.com,175,1419
 http://youpool.io/MOX,175,1420
-http://prg.citicashpool.cz,176,1421
 http://cch.dapool.me,176,1423
 https://www.kratos.biz,176,1425
 http://cch.thorshammer.cc,176,1429
-https://cryptoknight.cc/citi,176,1430
 https://citicash.luckypool.io,176,1432
 https://cch.leafpool.com,176,1434
 http://youpool.io/CCH,176,1435
@@ -1175,8 +1168,5 @@ http://xnb.superpools.online,264,2117
 http://xcash.superpools.online,178,2127
 http://207.180.246.163,259,2130
 http://dego.pool.flowmine.xyz,272,2131
-https://webdego.semipool.com,272,2132
-https://dego.cncoin.cf,272,2133
 https://cnpool.cc/dego,272,2134
-http://sumo-jetasia.cf,26,2135
 http://graft.zelerius.ru,12,2136
