@@ -246,7 +246,6 @@ http://pool.coin42.co,172,501
 http://mutex.hashparty.io,112,505
 http://mine.mutexcurrency.io,112,506
 https://mutx.bluerockpools.net,112,507
-https://supportxmr.com,1,509
 http://cryptoknight.cc/b2b,2,510
 https://crep.miner.rocks,5,513
 http://dero.cryptopool.space,7,515
@@ -289,6 +288,7 @@ http://131.221.32.79,168,630
 https://crypto9coin.cf/drgl,171,632
 https://crypto9coin.cf/mox,175,635
 https://crypto9coin.cf/cch,176,636
+https://crypto9coin.cf/ple,179,638
 https://monetaverde.minercountry.com/,189,646
 https://infinium8.minercountry.com/,190,647
 http://pool.levcoin.net,193,650
@@ -985,7 +985,6 @@ https://disjampools.us/jyo,252,1933
 https://newpool.pw/xcash/,178,1934
 http://pool.xsubyte.org,276,1940
 https://crypto9coin.cf/xsu,276,1941
-https://xta.leafpool.com,15,1942
 https://mcafee.safex.io,212,1945
 http://pool.ultrapoint.org,181,1948
 http://bdx.superpools.online,257,1949
