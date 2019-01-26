@@ -239,6 +239,7 @@ https://xdrop.my-mining-pool.de,155,499
 https://42.cnpools.space,172,500
 http://pool.coin42.co,172,501
 http://mutex.hashparty.io,112,505
+http://mine.mutexcurrency.io,112,506
 https://mutx.bluerockpools.net,112,507
 https://supportxmr.com,1,509
 http://cryptoknight.cc/b2b,2,510
@@ -255,7 +256,6 @@ https://goldenhillpool.com,28,534
 https://trtl.semipool.com,29,535
 https://communitypool.stellite.cash,33,539
 https://bsm.cryptopool.space,47,547
-http://worktips.work,52,550
 https://tyche.simpool.xyz,57,553
 http://mine.klondikepool.com/,66,557
 https://croat-api.pool.cat,75,561
@@ -917,7 +917,6 @@ https://idpool.majanetwork.com/xtl,33,1840
 https://nbx.cryptonight.mine.nu,256,1842
 https://asiapool.io/bbs,58,1843
 https://loki.miningpool.online,100,1847
-https://asiapool.io/xcash,178,1853
 https://btr.cryptomine.cx,271,1856
 https://nibbleclassic.my-mining-pool.de,256,1858
 https://fredenergy.my-mining-pool.de,219,1862
