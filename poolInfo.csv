@@ -5,10 +5,12 @@ http://bcn.jedipool.com,3,83
 https://easyhash.pro/bcn,3,84
 http://bcn.superpools.online,3,86
 https://etn.spacepools.org,9,88
+http://etn.jedipool.com,9,92
 http://electroneum.mining-pool.info,9,94
 https://cryptoknight.cc/etn,9,97
 http://etn.proxpool.com,9,98
 https://etn.miner.rocks,9,99
+http://etn.superpools.online,9,100
 https://easyhash.pro/etn,9,101
 http://etn.bubblemine.com,9,103
 https://sumo.spacepools.org,26,106
@@ -424,7 +426,6 @@ http://graft.thorshammer.cc,12,997
 https://graftpool.network,12,998
 https://graftpro.com,12,999
 https://www.dark-mine.su/graft,12,1000
-http://graft.cryptocrush.cc,12,1001
 http://grftpool.com,12,1002
 https://graft.hashnetwork.net,12,1003
 http://magicpool.my.to,12,1005
@@ -1001,10 +1002,12 @@ https://wow.codpool.com,67,1962
 https://www.enigma-mining.de/pars,95,1963
 https://www.enigma-mining.de/elph,235,1964
 https://www.enigma-mining.de/xtl,33,1965
+https://triton.smartcoinpool.com,41,1967
 https://xtri.minercountry.com,41,1968
 https://cryptoknight.cc/triton,41,1969
 https://triton.my-mining-pool.de,41,1970
 https://trit.codpool.com,41,1971
+https://triton.smartcoinpool.com,179,1972
 https://nbxpool.com,256,1973
 http://173.212.249.18/merge,256,1974
 https://btr.cryptomine.cx,265,1975
@@ -1059,6 +1062,7 @@ http://hosp.rubypool.com,221,2039
 http://the-miners.de/lethean,16,2043
 http://207.180.246.163/fury,224,2047
 https://xtri.hashpool.cc,277,2048
+https://triton.smartcoinpool.com,277,2049
 https://cryptoknight.cc/triton,277,2050
 https://triton.my-mining-pool.de,277,2051
 https://xtri.minercountry.com,277,2052
@@ -1115,3 +1119,10 @@ https://webdego.semipool.com,272,2132
 https://cnpool.cc/dego,272,2134
 https://cx.cryptomine.cx,258,2137
 https://cx.thepiratemine.nl,258,2138
+http://youpool.io/ARBO,278,2139
+http://youpool.io/SEVA,273,2140
+http://youpool.io/TMY,280,2141
+https://pool.bittrader.io,281,2142
+http://youpool.io/TRD,281,2143
+https://crypto9coin.cf/trd,281,2144
+https://crypto9coin.cf/invc,282,2145
