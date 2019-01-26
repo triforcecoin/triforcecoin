@@ -388,7 +388,6 @@ https://fury.xmining.pro,224,890
 http://loki-pool.com,100,891
 http://etos.world/pool,226,893
 http://loki.blockfoundry.org,100,895
-http://youpool.io/XTRA,227,896
 https://getpool.org/bzk,44,899
 https://caliber.luckypool.io,229,901
 https://elphyrecoin.clevery.xyz,235,904
@@ -404,7 +403,6 @@ https://cal.codpool.com,229,919
 https://xca.codpool.com,178,920
 https://tube.codpool.com,13,921
 http://www.poolday.top,111,922
-http://youpool.io/BDX,240,925
 http://youpool.io/PYREX,61,927
 http://bdx.superpools.online,240,930
 https://freehaven.pocketwhale.info,243,931
@@ -462,13 +460,13 @@ https://moneroocean.stream,1,1056
 https://bohemianpool.com,1,1057
 https://xmrpool.net,1,1058
 https://pool.xmr.pt,1,1060
-http://monero.gt,1,1061
 https://xmr.mine.pro,1,1064
 https://myo-xmr.com,1,1065
 https://greenpool.site,1,1066
 https://monero.pool-moscow.ru,1,1070
 http://idpool.majanetwork.com/xmr,1,1071
 https://www.dark-mine.su/monero,1,1074
+https://minergate.com,1,1082
 https://xmr.pool.gntl.co.uk,1,1093
 https://xmr.go-mine.it,1,1094
 https://xmr.semipool.com,1,1097
@@ -491,7 +489,6 @@ https://parsicoin.my-mining-pool.de,95,1132
 https://pool.letheancoin.com,16,1137
 https://lethean.west-pool.org,16,1138
 https://lethean.blockharbor.net,16,1139
-https://www.gpumining.ir/lethean,16,1140
 https://cryptoknight.cc/lethean,16,1141
 https://lethean.herominers.com,16,1144
 https://lethean.blockfoundry.org,16,1145
@@ -685,13 +682,11 @@ https://cryptoknight.cc/saronite,114,1493
 https://saronite.hashvault.pro,114,1494
 https://saronite.herominers.com,114,1496
 https://pool.qwertycoin.org,23,1499
-http://superblockchain.con-ip.com/qwc,23,1502
 https://ombre-pool.theskynet.xyz,20,1503
 https://ombre.majanetwork.com,20,1504
 https://ombre.my-mining-pool.de,20,1506
 https://havencoin-pool.com,31,1508
 https://haven.majanetwork.com,31,1509
-https://www.gpumining.ir/haven,31,1513
 https://xhv.solopool.org,31,1514
 https://haven.luckypool.io,31,1516
 https://haven.herominers.com,31,1517
@@ -1060,7 +1055,6 @@ https://beldex.luckypool.io,257,2060
 https://bdx.luckypool.io,257,2061
 https://easyhash.pro/bdx,257,2064
 https://beldex.smartcoinpool.com,257,2066
-http://youpool.io/BDX,257,2068
 https://newpool.pw/bdx/,257,2071
 https://pool.saronite.info,236,2072
 https://xrn.hashpool.cc,236,2073
