@@ -486,7 +486,6 @@ https://bbscoin.cryptohispano.net,58,1119
 https://bbs.semipool.com,58,1120
 http://pool.baikalmine.com/en/xmv,103,1122
 https://monerov.herominers.com,103,1123
-https://xmv.go-mine.it,103,1124
 https://xlc.pool.gntl.co.uk,32,1128
 http://pool.parsicoin.net,95,1129
 https://parsicoin.clevery.xyz,95,1130
@@ -549,7 +548,6 @@ https://plenteum.clevery.xyz,179,1222
 https://ple.optimusblue.com,179,1223
 https://plenteum.my-mining-pool.de,179,1225
 http://cnpool.cc/xcy,231,1226
-https://xcy.cnpool.vip,231,1227
 https://pooltupi.com,82,1229
 https://www.durinsmine.com,82,1230
 https://aeon-pool.de,82,1231
@@ -839,6 +837,7 @@ http://graftminingpool.tk,12,1729
 https://grft.hashpool.cc,12,1730
 https://wow.hashpool.cc,67,1731
 https://disjampools.us/fury,224,1732
+https://cpa.cryptomine.cx,199,1734
 https://cpacoin.my-mining-pool.de,199,1735
 https://cpa.multiminer.us,199,1736
 https://xmr.cryptoblock.uk,1,1737
@@ -885,6 +884,7 @@ https://mtip.llama.horse,156,1792
 https://sumo.llama.horse,26,1797
 https://wow.llama.horse,67,1799
 http://173.212.249.18/merge,41,1800
+https://idpool.majanetwork.com/msr,19,1801
 https://mtip.gonspool.com,156,1802
 https://trtl.muxdux.com,29,1803
 https://cryptoknight.cc/swap,262,1805
@@ -984,10 +984,12 @@ https://wow.codpool.com,67,1962
 https://www.enigma-mining.de/pars,95,1963
 https://www.enigma-mining.de/elph,235,1964
 https://www.enigma-mining.de/xtl,33,1965
+https://triton.smartcoinpool.com,41,1967
 https://xtri.minercountry.com,41,1968
 https://cryptoknight.cc/triton,41,1969
 https://triton.my-mining-pool.de,41,1970
 https://trit.codpool.com,41,1971
+https://triton.smartcoinpool.com,179,1972
 https://nbxpool.com,256,1973
 http://173.212.249.18/merge,256,1974
 https://btr.cryptomine.cx,265,1975
@@ -1099,7 +1101,6 @@ http://207.180.246.163,259,2130
 http://dego.pool.flowmine.xyz,272,2131
 https://webdego.semipool.com,272,2132
 https://cnpool.cc/dego,272,2134
-https://cx.cryptomine.cx,258,2137
 https://cx.thepiratemine.nl,258,2138
 http://youpool.io/ARBO,278,2139
 http://youpool.io/SEVA,273,2140
