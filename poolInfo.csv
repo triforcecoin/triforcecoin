@@ -467,7 +467,6 @@ https://xmr.semipool.com,1,1097
 https://citadel.my-mining-pool.de,91,1105
 http://youpool.io/CTL,91,1106
 https://communitypool.org/ctl,91,1107
-http://cal.rubypool.com,229,1109
 http://cal.m00n.top,229,1111
 https://cryptoknight.cc/caliber,229,1112
 http://youpool.io/CAL,229,1114
@@ -629,7 +628,6 @@ https://communitypool.org/dsh,206,1391
 https://beldex.luckypool.io,240,1394
 http://pool01.lithiumbit.com,101,1398
 https://communitypool.org/inc,81,1401
-http://xvv.rubypool.com,191,1402
 http://veronite.ml,191,1403
 https://ryo.bohemianpool.com,131,1408
 https://ryo.solopool.org,131,1410
@@ -686,6 +684,7 @@ https://ombre.majanetwork.com,20,1504
 https://ombre.my-mining-pool.de,20,1506
 https://havencoin-pool.com,31,1508
 https://haven.majanetwork.com,31,1509
+https://www.gpumining.ir/haven,31,1513
 https://xhv.solopool.org,31,1514
 https://haven.luckypool.io,31,1516
 https://haven.herominers.com,31,1517
@@ -784,7 +783,6 @@ http://minercoin.network/poolus,249,1656
 https://jyo.luckypool.io,252,1658
 https://mtip.llama.horse,156,1659
 http://the-miners.de/CPA,199,1660
-http://cpa.cnhub.de/,199,1661
 http://149.28.211.78,256,1662
 https://xtri.hashpool.cc,41,1667
 https://ttnz.blokspace.io,222,1668
@@ -792,7 +790,6 @@ https://msr.heigh-ho.funkypenguin.co.nz,19,1669
 https://disjampools.us/ple,179,1671
 https://communitypool.org/mtip,156,1673
 https://aeon.hackerknowledge.de,82,1674
-https://arms.cryptomine.cx,180,1675
 https://turtle.modpool.org,29,1676
 https://swap.pocketwhale.info,262,1678
 https://swap.bitkitten.xyz,262,1679
@@ -833,7 +830,6 @@ http://graftminingpool.tk,12,1729
 https://grft.hashpool.cc,12,1730
 https://wow.hashpool.cc,67,1731
 https://disjampools.us/fury,224,1732
-https://cpa.cryptomine.cx,199,1734
 https://cpacoin.my-mining-pool.de,199,1735
 https://cpa.multiminer.us,199,1736
 https://xmr.cryptoblock.uk,1,1737
@@ -880,7 +876,6 @@ https://mtip.llama.horse,156,1792
 https://sumo.llama.horse,26,1797
 https://wow.llama.horse,67,1799
 http://173.212.249.18/merge,41,1800
-https://idpool.majanetwork.com/msr,19,1801
 https://mtip.gonspool.com,156,1802
 https://trtl.muxdux.com,29,1803
 https://cryptoknight.cc/swap,262,1805
@@ -1094,7 +1089,6 @@ http://207.180.246.163,259,2130
 http://dego.pool.flowmine.xyz,272,2131
 https://webdego.semipool.com,272,2132
 https://cnpool.cc/dego,272,2134
-https://cx.cryptomine.cx,258,2137
 https://cx.thepiratemine.nl,258,2138
 http://youpool.io/ARBO,278,2139
 http://youpool.io/SEVA,273,2140
