@@ -92,6 +92,7 @@ http://qrlmining.info,157,223
 http://qrl.cryptorarium.net,157,224
 https://www.mineqrl.net,157,225
 http://pool-best.hopto.org,47,227
+https://bitsum.smartcoinpool.com,47,229
 https://cryptoknight.cc/haven,31,230
 https://haven.miner.rocks,31,231
 https://xhv.codpool.com,31,232
@@ -146,6 +147,7 @@ https://ryo.codpool.com,131,324
 https://cryptoknight.cc/ryo,131,327
 https://cryptoknight.cc/msr,19,328
 http://www.masaripool.com,19,329
+http://id.masari.network,19,330
 https://masari.miner.rocks,19,333
 https://msr.bluerockpools.net,19,337
 https://msr.codpool.com,19,338
@@ -445,7 +447,6 @@ http://wow.superpools.online,67,1033
 https://wownero.modpool.org,67,1034
 http://the-miners.de/fury,224,1035
 https://fury.thepiratemine.nl,224,1037
-https://mutex.almsoft.net,112,1039
 https://mutex.multiminer.us,112,1041
 https://mutex.smartcoinpool.com,112,1042
 https://asiapool.io/mutex,112,1043
@@ -787,7 +788,6 @@ https://msr.heigh-ho.funkypenguin.co.nz,19,1669
 https://disjampools.us/ple,179,1671
 https://communitypool.org/mtip,156,1673
 https://aeon.hackerknowledge.de,82,1674
-https://arms.cryptomine.cx,180,1675
 https://turtle.modpool.org,29,1676
 https://swap.pocketwhale.info,262,1678
 https://swap.bitkitten.xyz,262,1679
@@ -828,7 +828,6 @@ http://graftminingpool.tk,12,1729
 https://grft.hashpool.cc,12,1730
 https://wow.hashpool.cc,67,1731
 https://disjampools.us/fury,224,1732
-https://cpa.cryptomine.cx,199,1734
 https://cpacoin.my-mining-pool.de,199,1735
 https://cpa.multiminer.us,199,1736
 https://xmr.cryptoblock.uk,1,1737
@@ -949,7 +948,6 @@ http://the-miners.de/Arqma,137,1921
 https://webccx.semipool.com,142,1922
 https://xao.codpool.com,30,1924
 https://newpool.pw/xnb,264,1925
-https://minehycon.com,269,1931
 http://jyo.minecrypto.nl,252,1932
 https://disjampools.us/jyo,252,1933
 https://newpool.pw/xcash/,178,1934
@@ -1088,6 +1086,7 @@ http://207.180.246.163,259,2130
 http://dego.pool.flowmine.xyz,272,2131
 https://webdego.semipool.com,272,2132
 https://cnpool.cc/dego,272,2134
+https://cx.cryptomine.cx,258,2137
 https://cx.thepiratemine.nl,258,2138
 http://youpool.io/ARBO,278,2139
 http://youpool.io/SEVA,273,2140
