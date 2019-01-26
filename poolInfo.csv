@@ -1,5 +1,6 @@
 url,coinId,poolId
 http://bytecoin-pool.org,3,81
+http://bcn.mypool.online,3,82
 http://bcn.jedipool.com,3,83
 https://easyhash.pro/bcn,3,84
 http://bcn.superpools.online,3,86
@@ -24,6 +25,7 @@ http://sumo.bubblemine.com,26,116
 https://sumo.minercountry.com,26,117
 http://xmc.superpools.online,135,119
 http://dcy.crypto-coins.club,6,122
+http://dcy.mypool.online,6,123
 https://easyhash.pro/dcy,6,124
 http://krb.hashgang.io,18,126
 https://cryptoknight.cc/karbo,18,127
@@ -35,6 +37,7 @@ http://karbo-pool.pp.ua,18,133
 http://krb.kopanka.com,18,134
 http://krb.pool.ualinux.com,18,135
 https://krbpool.pp.ua,18,136
+http://krb.mypool.online,18,138
 http://krb.superpools.online,18,140
 http://krb.sintezpool.com,18,141
 https://easyhash.pro/krb,18,143
@@ -123,6 +126,7 @@ http://stellite.smartcoinpool.com,33,298
 https://stellite.my-mining-pool.de,33,299
 https://xtl.steadyhash.org,33,300
 http://stellite.ethospool.org,33,301
+https://xtl.cryptoblock.uk,33,302
 http://pocketminer.co.uk/pool/xtl,33,304
 https://aeon-pool.com,82,305
 https://aeonhash.com,82,306
@@ -150,6 +154,7 @@ https://masari.blockfoundry.org,19,340
 http://pool.batminer.network,19,341
 http://eu.turtlepool.space,29,342
 http://us.turtlepool.space,29,343
+https://trtl.mine2gether.com,29,345
 http://ny.minetrtl.us,29,347
 https://turtle.mining.garden,29,348
 http://trtl.proxpool.com,29,350
@@ -207,7 +212,6 @@ https://triton.minercountry.com,245,433
 https://trit.codpool.com,245,436
 https://cryptoknight.cc/iridium,14,439
 https://irdpool.eu,14,440
-https://irdpool.fr,14,442
 https://irdpool.ca,14,443
 https://ird.codpool.com,14,444
 http://iridiumpool.duckdns.org,14,445
@@ -543,7 +547,6 @@ https://plenteum.virtopia.ca,179,1218
 http://the-miners.de/Plenteum,179,1221
 https://plenteum.clevery.xyz,179,1222
 https://ple.optimusblue.com,179,1223
-http://plenteum.miner.care/,179,1224
 https://plenteum.my-mining-pool.de,179,1225
 http://cnpool.cc/xcy,231,1226
 https://xcy.cnpool.vip,231,1227
@@ -1089,8 +1092,10 @@ http://xnb.superpools.online,264,2117
 https://caliber.my-mining-pool.de,229,2124
 http://xcash.superpools.online,178,2127
 http://207.180.246.163,259,2130
+http://dego.pool.flowmine.xyz,272,2131
 https://webdego.semipool.com,272,2132
 https://cnpool.cc/dego,272,2134
+https://cx.cryptomine.cx,258,2137
 https://cx.thepiratemine.nl,258,2138
 http://youpool.io/ARBO,278,2139
 http://youpool.io/SEVA,273,2140
