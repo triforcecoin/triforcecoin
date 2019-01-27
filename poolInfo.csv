@@ -102,7 +102,6 @@ https://xhv.steadyhash.org,31,238
 https://newpool.pw/haven,31,241
 https://cryptoknight.cc/graft,12,244
 https://graft.spacepools.org,12,245
-https://graft.miner.rocks,12,247
 http://graft.usaminingpool.com,12,251
 https://pool.graft.community,12,252
 https://graft.cool-pool.net,12,255
@@ -321,7 +320,6 @@ http://youpool.io/GDM,125,748
 http://youpool.io/DPR,146,752
 http://youpool.io/RD,79,753
 http://youpool.io/NEWTON,36,754
-http://youpool.io/BTN,93,755
 http://youpool.io/LUKA,168,757
 http://youpool.io/B2B,2,758
 http://youpool.io/BKC,49,760
@@ -422,7 +420,6 @@ http://pyrex-pool.tokl.io,61,994
 https://pyrexcoin.my-mining-pool.de,61,995
 https://pyx.cryptohispano.net,61,996
 http://graft.thorshammer.cc,12,997
-https://graftpool.network,12,998
 https://graftpro.com,12,999
 https://www.dark-mine.su/graft,12,1000
 http://grftpool.com,12,1002
@@ -462,11 +459,8 @@ https://moneroocean.stream,1,1056
 https://bohemianpool.com,1,1057
 https://xmrpool.net,1,1058
 https://pool.xmr.pt,1,1060
-http://monero.gt,1,1061
 https://xmr.mine.pro,1,1064
 https://myo-xmr.com,1,1065
-https://greenpool.site,1,1066
-https://monero.pool-moscow.ru,1,1070
 http://idpool.majanetwork.com/xmr,1,1071
 https://www.dark-mine.su/monero,1,1074
 https://minergate.com,1,1082
@@ -500,7 +494,6 @@ https://lethean.my-mining-pool.de,16,1146
 https://lthn.pool.gntl.co.uk,16,1147
 http://intense.hashing.mine.nu,16,1148
 https://elya.my-mining-pool.de,43,1152
-https://stellite.almsoft.net,33,1154
 https://xtl.majanetwork.com,33,1156
 https://xtl.solopool.org,33,1159
 https://stellite.herominers.com,33,1160
@@ -611,11 +604,7 @@ https://sumo.semipool.com,26,1342
 http://edollar.poolmining.it,8,1344
 https://edl.easypool.pro,8,1345
 http://youpool.io/CBC,151,1347
-https://communitypool.org/vgc,234,1350
 http://spes.minercountry.com,87,1352
-https://communitypool.org/spes,87,1353
-https://etn.mine.pro,9,1355
-https://electromine.fr,9,1356
 https://etn.pool.gntl.co.uk,9,1365
 https://etn.semipool.com,9,1367
 http://gdm.ms-pool.net.ua,125,1369
@@ -778,7 +767,6 @@ https://webdero.semipool.com,7,1634
 https://websumo.semipool.com,26,1636
 https://webetn.semipool.com,9,1637
 https://webkrb.semipool.com,18,1639
-https://easyhash.pro/bdx,240,1641
 https://beldex.smartcoinpool.com,240,1644
 https://communitypool.org/veronite,191,1645
 https://ryo.modpool.org,131,1646
@@ -787,7 +775,6 @@ https://webtube.semipool.com,13,1651
 http://cnpool.cc/loki,100,1652
 https://webcch.semipool.com,100,1653
 https://webxhv.semipool.com,31,1655
-http://minercoin.network/poolus,249,1656
 https://jyo.luckypool.io,252,1658
 https://mtip.llama.horse,156,1659
 http://the-miners.de/CPA,199,1660
@@ -866,6 +853,7 @@ https://swap.miningpool.online,262,1766
 http://bbscoin.hk888.com,58,1767
 https://eu-miningcache.club,105,1768
 http://etn.bekopool.com,9,1769
+http://pool.cryptoluka.cl,168,1770
 https://easyhash.pro/luka,168,1771
 https://citicashminer.eu,176,1773
 https://mining.ipbc.rocks,214,1774
@@ -942,7 +930,6 @@ http://nbr.proxpool.com,37,1882
 https://cnpool.cc/cut,274,1887
 http://youpool.io/CPA,199,1889
 http://youpool.io/JYO,252,1890
-https://cryptonote.social/xmlc,263,1893
 http://youpool.io/XMLC,263,1894
 https://xmlc.thepiratemine.nl,263,1895
 http://xunpool.cf,34,1899
@@ -1006,6 +993,7 @@ https://webetnx.semipool.com,120,1987
 https://goldenhillpool.com,264,1988
 https://minergate.com,3,1992
 https://sumobcn.minercountry.com,3,1993
+https://minergate.com,135,1994
 https://webcch.semipool.com,176,1996
 https://www.waterparkmining.com,37,1997
 https://www.waterparkmining.com,100,1998
@@ -1071,6 +1059,7 @@ http://pool.coin42.co,266,2081
 http://the-miners.de/FRTY,266,2082
 https://pool.letheancoin.com,238,2083
 https://lethean.west-pool.org,238,2084
+https://lethean.blockharbor.net,238,2085
 http://the-miners.de/lethean,238,2086
 https://cryptoknight.cc/lethean,238,2087
 https://lethean.hashvault.pro,238,2088
