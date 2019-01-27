@@ -43,8 +43,6 @@ http://krb.sintezpool.com,18,141
 https://easyhash.pro/krb,18,143
 http://pool.dero.live,7,145
 https://easyhash.pro/dero,7,146
-https://dero.miner.rocks,7,147
-https://dero.fairhash.org,7,148
 http://dero.superpools.online,7,149
 https://dero.smartcoinpool.com,7,151
 http://ncp.superpools.online,36,154
@@ -153,7 +151,6 @@ https://msr.codpool.com,19,338
 https://masari.blockfoundry.org,19,340
 http://pool.batminer.network,19,341
 http://eu.turtlepool.space,29,342
-http://us.turtlepool.space,29,343
 https://trtl.mine2gether.com,29,345
 https://turtle.mining.garden,29,348
 http://trtl.proxpool.com,29,350
@@ -324,7 +321,6 @@ http://youpool.io/LUKA,168,757
 http://youpool.io/B2B,2,758
 http://youpool.io/BKC,49,760
 http://youpool.io/KSN,169,762
-https://arms.codpool.com,180,765
 https://inc.codpool.com,81,766
 https://elya.codpool.com,43,767
 https://grft.codpool.com,12,768
@@ -620,7 +616,6 @@ https://krb.semipool.com,18,1385
 http://pool.balkancoin.org,49,1386
 http://bkc.bubblemine.com,49,1388
 https://communitypool.org/dsh,206,1391
-https://beldex.luckypool.io,240,1394
 http://pool01.lithiumbit.com,101,1398
 https://communitypool.org/inc,81,1401
 http://xvv.rubypool.com,191,1402
@@ -659,7 +654,6 @@ http://pool.loki.frackingminer.com,100,1468
 http://loki.multipool.xyz,100,1469
 https://loki.hashvault.pro,100,1470
 https://loki.solopool.org,100,1471
-https://loki.herominers.com,100,1473
 https://loki.basementpool.org,100,1474
 https://loki.steadyhash.org,100,1476
 https://bloc-mining.eu,113,1477
@@ -679,6 +673,7 @@ https://ombre.majanetwork.com,20,1504
 https://ombre.my-mining-pool.de,20,1506
 https://havencoin-pool.com,31,1508
 https://haven.majanetwork.com,31,1509
+https://www.gpumining.ir/haven,31,1513
 https://xhv.solopool.org,31,1514
 https://haven.luckypool.io,31,1516
 https://haven.herominers.com,31,1517
@@ -781,7 +776,6 @@ http://the-miners.de/CPA,199,1660
 http://149.28.211.78,256,1662
 https://xtri.hashpool.cc,41,1667
 https://ttnz.blokspace.io,222,1668
-https://msr.heigh-ho.funkypenguin.co.nz,19,1669
 https://disjampools.us/ple,179,1671
 https://communitypool.org/mtip,156,1673
 https://arms.cryptomine.cx,180,1675
