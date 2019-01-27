@@ -260,11 +260,9 @@ http://worktips.work,52,550
 https://tyche.simpool.xyz,57,553
 http://mine.klondikepool.com/,66,557
 https://croat-api.pool.cat,75,561
-https://api.aeonminingpool.com,82,566
 https://pool.solace-coin.com,85,569
 http://pool.myspes.org,87,571
 http://45.76.251.222,88,572
-https://bbr.luckypool.io,89,573
 https://ctl.mine2gether.com,91,574
 http://pool.bitcoinn.biz,93,575
 http://youpool.io/LBIT/,101,579
@@ -347,7 +345,6 @@ https://lethean.hashvault.pro,16,830
 https://graft.hashvault.pro,12,831
 https://stellite.hashvault.pro,33,832
 https://haven.hashvault.pro,31,833
-https://ryo.hashvault.pro,131,835
 http://DSH.MyPool.Online,206,838
 http://COAL.MyPool.Online,4,839
 http://BIP.MyPool.Online,201,840
@@ -416,6 +413,7 @@ https://pyx.cryptohispano.net,61,996
 http://graft.thorshammer.cc,12,997
 https://graftpro.com,12,999
 https://www.dark-mine.su/graft,12,1000
+http://graft.cryptocrush.cc,12,1001
 http://grftpool.com,12,1002
 https://graft.hashnetwork.net,12,1003
 http://magicpool.my.to,12,1005
@@ -438,6 +436,7 @@ http://wow.superpools.online,67,1033
 https://wownero.modpool.org,67,1034
 http://the-miners.de/fury,224,1035
 https://fury.thepiratemine.nl,224,1037
+https://mutex.almsoft.net,112,1039
 https://mutex.multiminer.us,112,1041
 https://mutex.smartcoinpool.com,112,1042
 https://asiapool.io/mutex,112,1043
@@ -527,7 +526,6 @@ https://masari.czechiapool.com,19,1208
 https://msr.majanetwork.com,19,1209
 https://msr.pool.gntl.co.uk,19,1213
 https://msr.go-mine.it,19,1214
-https://masari.modpool.org,19,1215
 https://ple.llama.horse,179,1217
 https://plenteum.virtopia.ca,179,1218
 http://the-miners.de/Plenteum,179,1221
@@ -592,7 +590,6 @@ https://dero.semipool.com,7,1328
 http://youpool.io/PK,107,1330
 https://communitypool.org/pk,107,1331
 https://sumo-pool.theskynet.xyz,26,1333
-https://pool.sumokoin.com,26,1334
 https://newpool.pw/sumo,26,1340
 https://sumobcn.minercountry.com,26,1341
 https://sumo.semipool.com,26,1342
