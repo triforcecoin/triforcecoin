@@ -257,7 +257,6 @@ http://worktips.work,52,550
 https://tyche.simpool.xyz,57,553
 http://mine.klondikepool.com/,66,557
 https://croat-api.pool.cat,75,561
-https://api.aeonminingpool.com,82,566
 https://pool.solace-coin.com,85,569
 http://pool.myspes.org,87,571
 http://45.76.251.222,88,572
@@ -541,7 +540,6 @@ https://aeon.minercountry.com,82,1244
 https://aeon.semipool.com,82,1246
 https://arms01.p2poolmining.us,180,1247
 https://communitypool.org/2acoin,180,1249
-https://trtl.ninja,29,1250
 https://trtl.llama.horse,29,1255
 https://turtle.hashvault.pro,29,1257
 https://turtle.miner.rocks,29,1259
@@ -775,6 +773,7 @@ https://ttnz.blokspace.io,222,1668
 https://msr.heigh-ho.funkypenguin.co.nz,19,1669
 https://disjampools.us/ple,179,1671
 https://communitypool.org/mtip,156,1673
+https://arms.cryptomine.cx,180,1675
 https://turtle.modpool.org,29,1676
 https://swap.pocketwhale.info,262,1678
 https://swap.bitkitten.xyz,262,1679
@@ -815,6 +814,7 @@ http://graftminingpool.tk,12,1729
 https://grft.hashpool.cc,12,1730
 https://wow.hashpool.cc,67,1731
 https://disjampools.us/fury,224,1732
+https://cpa.cryptomine.cx,199,1734
 https://cpacoin.my-mining-pool.de,199,1735
 https://cpa.multiminer.us,199,1736
 https://xmr.cryptoblock.uk,1,1737
@@ -830,8 +830,6 @@ https://xlc.codpool.com,32,1750
 https://supportqrl.com,157,1751
 https://lthn.bluerockpools.net,16,1753
 http://london-uk.pools.minexca.com,178,1755
-http://singapore.pools.minexca.com,178,1756
-http://toronto-canada.pools.minexca.com,178,1757
 https://disjampools.us/xcash,178,1758
 https://xmlc.nbxpool.com,263,1761
 https://nbx.hackerknowledge.de,256,1762
@@ -942,6 +940,7 @@ https://disjampools.us/jyo,252,1933
 https://newpool.pw/xcash/,178,1934
 http://pool.xsubyte.org,276,1940
 https://crypto9coin.cf/xsu,276,1941
+http://xavieron.us/italocoin,15,1943
 https://mcafee.safex.io,212,1945
 http://pool.ultrapoint.org,181,1948
 http://bdx.superpools.online,257,1949
@@ -963,6 +962,7 @@ https://xtri.minercountry.com,41,1968
 https://cryptoknight.cc/triton,41,1969
 https://triton.my-mining-pool.de,41,1970
 https://trit.codpool.com,41,1971
+https://triton.smartcoinpool.com,179,1972
 https://nbxpool.com,256,1973
 http://173.212.249.18/merge,256,1974
 https://btr.cryptomine.cx,265,1975
