@@ -352,7 +352,6 @@ https://xpp.cryptohispano.net,152,849
 http://nbr.4miner.me,37,854
 http://mkt.4miner.me,71,855
 http://crep.4miner.me,5,856
-https://safex.cnpools.space,212,858
 https://xtl.cryptopool.space,33,861
 https://xmr.cryptopool.space,1,862
 https://trtl.cryptopool.space,29,863
@@ -449,7 +448,6 @@ https://moneroocean.stream,1,1056
 https://bohemianpool.com,1,1057
 https://xmrpool.net,1,1058
 https://pool.xmr.pt,1,1060
-https://xmr.mine.pro,1,1064
 https://myo-xmr.com,1,1065
 http://idpool.majanetwork.com/xmr,1,1071
 https://www.dark-mine.su/monero,1,1074
@@ -588,7 +586,10 @@ https://sumo.semipool.com,26,1342
 http://edollar.poolmining.it,8,1344
 https://edl.easypool.pro,8,1345
 http://youpool.io/CBC,151,1347
+https://communitypool.org/vgc,234,1350
 http://spes.minercountry.com,87,1352
+https://communitypool.org/spes,87,1353
+https://etn.mine.pro,9,1355
 https://etn.pool.gntl.co.uk,9,1365
 https://etn.semipool.com,9,1367
 http://gdm.ms-pool.net.ua,125,1369
@@ -596,6 +597,7 @@ http://gdm.bubblemine.com,125,1370
 http://superblockchain.con-ip.com/gdm,125,1371
 https://communitypool.org/b2b,2,1373
 http://coal.mining.garden,4,1374
+https://dashboard.bytecoin.party,3,1377
 https://plura.llama.horse,21,1379
 https://karbo.herominers.com,18,1382
 http://youpool.io/KARBO,18,1384
@@ -631,6 +633,7 @@ https://bittube.hashvault.pro,13,1446
 https://tube.solopool.org,13,1447
 https://tube.herominers.com,13,1452
 https://tube.pool.gntl.co.uk,13,1454
+http://tube.superpools.online,13,1455
 https://tube.semipool.com,13,1456
 https://loki.elasticpool.com,100,1458
 http://idpool.majanetwork.com/loki,100,1460
@@ -732,7 +735,6 @@ http://cnpool.cc/loki,100,1596
 https://webcch.semipool.com,100,1597
 https://webxhv.semipool.com,31,1599
 http://elph.4miner.me,235,1601
-http://xavieron.us/elphyrecoin,235,1602
 https://xtl.crypto-coins.club,33,1606
 https://webxtl.semipool.com,33,1607
 http://173.212.249.18,158,1608
@@ -936,7 +938,6 @@ https://disjampools.us/jyo,252,1933
 https://newpool.pw/xcash/,178,1934
 http://pool.xsubyte.org,276,1940
 https://crypto9coin.cf/xsu,276,1941
-http://xavieron.us/italocoin,15,1943
 https://mcafee.safex.io,212,1945
 http://pool.ultrapoint.org,181,1948
 http://bdx.superpools.online,257,1949
