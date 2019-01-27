@@ -615,6 +615,7 @@ http://gdm.bubblemine.com,125,1370
 http://superblockchain.con-ip.com/gdm,125,1371
 https://communitypool.org/b2b,2,1373
 http://coal.mining.garden,4,1374
+https://dashboard.bytecoin.party,3,1377
 https://plura.llama.horse,21,1379
 https://karbo.herominers.com,18,1382
 http://youpool.io/KARBO,18,1384
@@ -677,11 +678,13 @@ https://cryptoknight.cc/saronite,114,1493
 https://saronite.hashvault.pro,114,1494
 https://saronite.herominers.com,114,1496
 https://pool.qwertycoin.org,23,1499
+http://superblockchain.con-ip.com/qwc,23,1502
 https://ombre-pool.theskynet.xyz,20,1503
 https://ombre.majanetwork.com,20,1504
 https://ombre.my-mining-pool.de,20,1506
 https://havencoin-pool.com,31,1508
 https://haven.majanetwork.com,31,1509
+https://www.gpumining.ir/haven,31,1513
 https://xhv.solopool.org,31,1514
 https://haven.luckypool.io,31,1516
 https://haven.herominers.com,31,1517
@@ -715,6 +718,7 @@ http://173.212.249.18,158,1552
 https://webxtri.semipool.com,41,1554
 http://xavieron.us/tritanium,222,1555
 https://webaeon.semipool.com,82,1556
+http://arms.miningcache.org,180,1557
 https://webtrtl.semipool.com,29,1558
 http://xavieron.us/bitcoinote,42,1559
 http://b2n.miningcache.org,105,1560
@@ -751,11 +755,13 @@ http://cnpool.cc/loki,100,1596
 https://webcch.semipool.com,100,1597
 https://webxhv.semipool.com,31,1599
 http://elph.4miner.me,235,1601
+http://xavieron.us/elphyrecoin,235,1602
 https://xtl.crypto-coins.club,33,1606
 https://webxtl.semipool.com,33,1607
 http://173.212.249.18,158,1608
 https://webxtri.semipool.com,41,1610
 https://webaeon.semipool.com,82,1612
+http://arms.miningcache.org,180,1613
 https://webtrtl.semipool.com,29,1614
 https://lumeneo.modpool.org,187,1617
 https://webarq.semipool.com,137,1619
@@ -1063,7 +1069,6 @@ http://pool.coin42.co,266,2081
 http://the-miners.de/FRTY,266,2082
 https://pool.letheancoin.com,238,2083
 https://lethean.west-pool.org,238,2084
-https://lethean.blockharbor.net,238,2085
 http://the-miners.de/lethean,238,2086
 https://cryptoknight.cc/lethean,238,2087
 https://lethean.hashvault.pro,238,2088
