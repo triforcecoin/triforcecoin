@@ -132,7 +132,6 @@ https://cryptoknight.cc/aeon,82,310
 http://aeon.superpools.online,82,311
 https://aeon-pool.mine.nu,82,313
 http://aeon-pool.net,82,315
-https://ryo.miner.rocks,131,316
 https://pool.ryo-currency.com,131,317
 http://pool.ryo-currency.eu,131,318
 http://pool.ryo-currency.ru,131,319
@@ -254,10 +253,13 @@ http://pool.arto.cash,24,530
 https://sumokoin.hashvault.pro,26,532
 https://goldenhillpool.com,28,534
 https://trtl.semipool.com,29,535
+https://communitypool.stellite.cash,33,539
+https://bsm.cryptopool.space,47,547
 http://worktips.work,52,550
 https://tyche.simpool.xyz,57,553
 http://mine.klondikepool.com/,66,557
 https://croat-api.pool.cat,75,561
+https://api.aeonminingpool.com,82,566
 https://pool.solace-coin.com,85,569
 http://pool.myspes.org,87,571
 http://45.76.251.222,88,572
@@ -503,9 +505,7 @@ https://safex.cool-pool.net,212,1173
 https://xcashpool.xyz,178,1175
 http://xca.1isolution.com,178,1177
 https://xcash.hashvault.pro,178,1181
-https://xcash.luckypool.io,178,1182
 https://xcash.clevery.xyz,178,1184
-https://xca.cryptopool.space,178,1185
 https://communitypool.org/xcash,178,1186
 https://xcash.steadyhash.org,178,1187
 http://the-miners.de/etnc,158,1188
@@ -995,7 +995,6 @@ https://www.waterparkmining.com,16,2007
 https://hosp.bluerockpools.net,33,2008
 https://www.waterparkmining.com,178,2009
 https://newpool.pw/xcy/,231,2010
-https://btr.clevery.xyz,265,2011
 http://ccx.aiwakuang.cn,142,2012
 https://xnb.gonspool.com,264,2015
 https://sumob2b.minercountry.com,26,2017
@@ -1028,7 +1027,6 @@ https://xtri.minercountry.com,277,2052
 https://webxtri.semipool.com,277,2053
 https://trit.codpool.com,277,2054
 http://btr.cryptocoins-digging.space,271,2057
-https://btr.clevery.xyz,271,2058
 https://www.enigma-mining.de/btr,271,2059
 https://beldex.luckypool.io,257,2060
 https://bdx.luckypool.io,257,2061
@@ -1043,9 +1041,6 @@ https://saronite.miner.rocks,236,2076
 https://idpool.majanetwork.com/xrn,236,2079
 http://pool.coin42.co,266,2081
 http://the-miners.de/FRTY,266,2082
-https://pool.letheancoin.com,238,2083
-https://lethean.west-pool.org,238,2084
-https://lethean.blockharbor.net,238,2085
 http://the-miners.de/lethean,238,2086
 https://cryptoknight.cc/lethean,238,2087
 https://lethean.hashvault.pro,238,2088
