@@ -351,6 +351,8 @@ http://crep.4miner.me,5,856
 https://safex.cnpools.space,212,858
 https://xtl.cryptopool.space,33,861
 https://xmr.cryptopool.space,1,862
+https://trtl.cryptopool.space,29,863
+https://dero.cryptopool.space,7,864
 https://qrl.cryptopool.space,157,865
 https://lok.cryptopool.space,100,866
 https://grft.cryptopool.space,12,867
@@ -470,7 +472,6 @@ https://parsicoin.my-mining-pool.de,95,1132
 https://pool.letheancoin.com,16,1137
 https://lethean.west-pool.org,16,1138
 https://lethean.blockharbor.net,16,1139
-https://www.gpumining.ir/lethean,16,1140
 https://cryptoknight.cc/lethean,16,1141
 https://lethean.blockfoundry.org,16,1145
 https://lethean.my-mining-pool.de,16,1146
@@ -639,7 +640,6 @@ http://pool.loki.frackingminer.com,100,1468
 http://loki.multipool.xyz,100,1469
 https://loki.hashvault.pro,100,1470
 https://loki.solopool.org,100,1471
-https://loki.basementpool.org,100,1474
 https://loki.steadyhash.org,100,1476
 https://bloc-mining.eu,113,1477
 https://bloc-mining.asia,113,1478
@@ -792,7 +792,6 @@ https://tube.hashpool.cc,13,1715
 https://bittube.modpool.org,13,1717
 https://xta.codpool.com,15,1718
 https://loki.hashpool.cc,100,1719
-https://loki.majanetwork.com,100,1720
 https://bloc.modpool.org,113,1721
 https://xrn.hashpool.cc,114,1722
 http://vnpools.tk,31,1724
