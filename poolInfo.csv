@@ -282,7 +282,6 @@ https://pool.remixcoin.io/,197,653
 http://eu.mimi.money,198,655
 https://pool.cryptopay.org.za,199,656
 http://pool.valentinecoin.space,55,666
-http://pool.2acoin.org,180,703
 http://pool.vesteelcoin-pool.eu,194,706
 https://cryptoknight.cc/edl,8,709
 https://cryptoknight.cc/niobio,37,711
@@ -437,7 +436,6 @@ http://hosp.ms-pool.net.ua,221,1048
 https://hosp.bluerockpools.net,221,1049
 https://hosp.optimusblue.com,221,1050
 http://youpool.io/HOSP,221,1051
-https://cpa.romining.farm,199,1052
 https://cpa.thepiratemine.nl,199,1054
 https://www.supportxmr.com,1,1055
 https://moneroocean.stream,1,1056
@@ -451,7 +449,6 @@ https://monero.pool-moscow.ru,1,1070
 http://idpool.majanetwork.com/xmr,1,1071
 https://www.dark-mine.su/monero,1,1074
 https://minergate.com,1,1082
-https://xmr.pool.gntl.co.uk,1,1093
 https://xmr.go-mine.it,1,1094
 https://xmr.semipool.com,1,1097
 https://citadel.my-mining-pool.de,91,1105
@@ -587,7 +584,6 @@ https://communitypool.org/vgc,234,1350
 http://spes.minercountry.com,87,1352
 https://communitypool.org/spes,87,1353
 https://etn.mine.pro,9,1355
-https://etn.pool.gntl.co.uk,9,1365
 https://etn.semipool.com,9,1367
 http://gdm.ms-pool.net.ua,125,1369
 http://gdm.bubblemine.com,125,1370
@@ -600,11 +596,13 @@ http://youpool.io/KARBO,18,1384
 https://krb.semipool.com,18,1385
 http://pool.balkancoin.org,49,1386
 http://bkc.bubblemine.com,49,1388
+https://bkc.go-mine.it,49,1390
 https://communitypool.org/dsh,206,1391
 http://pool01.lithiumbit.com,101,1398
 https://communitypool.org/inc,81,1401
 http://xvv.rubypool.com,191,1402
 http://veronite.ml,191,1403
+https://ryo.bohemianpool.com,131,1408
 https://ryo.majanetwork.com,131,1409
 https://ryo.solopool.org,131,1410
 http://pool.baikalmine.com/en/ryo,131,1412
@@ -639,6 +637,7 @@ http://pool.loki.frackingminer.com,100,1468
 http://loki.multipool.xyz,100,1469
 https://loki.hashvault.pro,100,1470
 https://loki.solopool.org,100,1471
+https://loki.basementpool.org,100,1474
 https://loki.steadyhash.org,100,1476
 https://bloc-mining.eu,113,1477
 https://bloc-mining.asia,113,1478
