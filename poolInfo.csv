@@ -418,7 +418,6 @@ http://graft.hashing.mine.nu,12,1019
 https://graft.luckypool.io,12,1020
 https://grft.semipool.com,12,1021
 https://graft.smartcoinpool.com,12,1022
-https://wow.majanetwork.com,67,1028
 https://wownero.luckypool.io,67,1029
 https://wownero.my-mining-pool.de,67,1031
 http://wow.superpools.online,67,1033
@@ -504,6 +503,8 @@ http://youpool.io/TTNZ,222,1197
 http://cnpool.cc/ttnz,222,1198
 https://tritanium.smartcoinpool.com,222,1199
 https://crypto9coin.cf/ttnz,222,1200
+http://msr.soyminero.es,19,1202
+https://get.masaricoin.com,19,1203
 https://www.dark-mine.su/masari,19,1205
 https://masari.czechiapool.com,19,1208
 https://msr.majanetwork.com,19,1209
@@ -529,7 +530,9 @@ https://aeon.semipool.com,82,1246
 https://arms01.p2poolmining.us,180,1247
 https://arms.cnpools.space,180,1248
 https://communitypool.org/2acoin,180,1249
+https://trtl.ninja,29,1250
 https://trtl.llama.horse,29,1255
+https://turtle.hashvault.pro,29,1257
 https://turtle.miner.rocks,29,1259
 https://easyhash.pro/btcn,42,1260
 https://communitypool.org/btcn,42,1261
@@ -554,6 +557,7 @@ https://ccx.scecf.org,142,1296
 https://ccx.go-mine.it,142,1299
 https://conceal.modpool.org,142,1301
 https://conceal.my-mining-pool.de,142,1302
+https://pool.lines.pw,54,1303
 https://lines.modpool.org,54,1305
 https://freehaven.xmining.pro,243,1307
 https://freehaven.smartcoinpool.com,243,1308
@@ -854,9 +858,7 @@ http://youpool.io/FRED,219,1812
 https://pool.bittorium.org,216,1814
 https://pool.raasu.org,216,1815
 http://btor.simpool.xyz,216,1816
-https://coinpoolit.webhop.me/btor,216,1817
 https://cryptoknight.cc/bittorium,216,1818
-https://btor.thepiratemine.nl,216,1819
 https://disjampools.us/btor,216,1820
 https://idpool.majanetwork.com/ird,14,1821
 https://idpool.majanetwork.com/etnx,120,1822
@@ -1003,7 +1005,6 @@ https://triton.smartcoinpool.com,277,2049
 https://cryptoknight.cc/triton,277,2050
 https://triton.my-mining-pool.de,277,2051
 https://xtri.minercountry.com,277,2052
-https://webxtri.semipool.com,277,2053
 https://trit.codpool.com,277,2054
 http://btr.cryptocoins-digging.space,271,2057
 https://www.enigma-mining.de/btr,271,2059
