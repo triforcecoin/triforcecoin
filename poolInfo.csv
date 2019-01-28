@@ -1,6 +1,5 @@
 url,coinId,poolId
 http://bytecoin-pool.org,3,81
-http://bcn.mypool.online,3,82
 http://bcn.jedipool.com,3,83
 https://easyhash.pro/bcn,3,84
 http://bcn.superpools.online,3,86
@@ -23,7 +22,6 @@ http://sumo.bubblemine.com,26,116
 https://sumo.minercountry.com,26,117
 http://xmc.superpools.online,135,119
 http://dcy.crypto-coins.club,6,122
-http://dcy.mypool.online,6,123
 https://easyhash.pro/dcy,6,124
 http://krb.hashgang.io,18,126
 https://cryptoknight.cc/karbo,18,127
@@ -229,7 +227,6 @@ https://xca.bluerockpools.net,178,491
 http://xca.rubypool.com,178,492
 https://xca.cryptogains.fr,178,493
 http://xdrop.simpool.xyz,155,495
-http://pool.xdrop.io,155,496
 https://xdrop.my-mining-pool.de,155,499
 https://42.cnpools.space,172,500
 http://pool.coin42.co,172,501
@@ -271,7 +268,6 @@ http://www.stardustco.org,144,613
 http://pool.dopplersite.com,146,614
 http://104.168.144.234,153,620
 http://66.42.67.182,154,621
-https://pool.xdrop.io,155,622
 http://qrl.quantapool.com,157,623
 http://131.221.32.79,168,630
 https://crypto9coin.cf/drgl,171,632
@@ -342,15 +338,12 @@ https://graft.hashvault.pro,12,831
 https://stellite.hashvault.pro,33,832
 https://haven.hashvault.pro,31,833
 https://ryo.hashvault.pro,131,835
-http://DSH.MyPool.Online,206,838
-http://COAL.MyPool.Online,4,839
-http://BIP.MyPool.Online,201,840
-http://NNC.MyPool.Online,77,841
 https://xpp.arhash.xyz,152,843
 https://xpp.cryptohispano.net,152,849
 http://nbr.4miner.me,37,854
 http://mkt.4miner.me,71,855
 http://crep.4miner.me,5,856
+https://safex.cnpools.space,212,858
 https://xtl.cryptopool.space,33,861
 https://xmr.cryptopool.space,1,862
 https://trtl.cryptopool.space,29,863
@@ -358,6 +351,7 @@ https://dero.cryptopool.space,7,864
 https://qrl.cryptopool.space,157,865
 https://lok.cryptopool.space,100,866
 https://grft.cryptopool.space,12,867
+https://tube.cryptopool.space,13,868
 http://youpool.io/BTOR,216,872
 https://pool.zelerius.org,217,873
 https://kriptopool.com,118,875
@@ -564,7 +558,6 @@ https://ccx.scecf.org,142,1296
 https://ccx.go-mine.it,142,1299
 https://conceal.modpool.org,142,1301
 https://conceal.my-mining-pool.de,142,1302
-https://pool.lines.pw,54,1303
 https://lines.modpool.org,54,1305
 https://freehaven.xmining.pro,243,1307
 https://freehaven.smartcoinpool.com,243,1308
@@ -667,7 +660,6 @@ https://havencoin-pool.com,31,1508
 https://haven.majanetwork.com,31,1509
 https://www.gpumining.ir/haven,31,1513
 https://xhv.solopool.org,31,1514
-https://haven.luckypool.io,31,1516
 https://haven.herominers.com,31,1517
 https://xhv.cryptopool.space,31,1520
 https://haven.modpool.org,31,1521
@@ -950,7 +942,6 @@ http://upxpool.com,237,1954
 https://crypto9coin.cf/upx,237,1955
 https://upx.leafpool.com,237,1956
 http://youpool.io/UPX,237,1957
-https://uplexa.herominers.com,237,1958
 https://cnpool.cc/upx,237,1959
 https://arqma.minercountry.com,137,1960
 https://wow.codpool.com,67,1962
@@ -1072,3 +1063,19 @@ https://pool.bittrader.io,281,2142
 http://youpool.io/TRD,281,2143
 https://crypto9coin.cf/trd,281,2144
 https://crypto9coin.cf/invc,282,2145
+http://xsu.cryptonote.club,276,2146
+https://cnpool.cc/xsu,276,2147
+http://vgc.cryptonote.club,234,2148
+https://asiapool.io/italo,15,2149
+http://bloc.cryptonote.club,113,2150
+http://zls.superpools.online,217,2151
+http://web.poolhub.org,213,2152
+https://grftpool.io,12,2153
+https://cn.gpumining.ir/parsiapi,95,2154
+https://cn.gpumining.ir/bbsapi,58,2155
+https://communitypool.org/arqma,137,2156
+https://btor.cryptomine.cx,216,2157
+http://pool.getazur.org,268,2158
+https://azur.cryptomine.cx,268,2159
+http://azur.cryptocoins-digging.space,268,2160
+https://www.enigma-mining.de/azur,268,2161
