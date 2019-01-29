@@ -53,6 +53,7 @@ http://x12pool.com,148,165
 https://easyhash.pro/x12,148,167
 https://easyhash.pro/plura,21,171
 http://plura.superpools.online,21,172
+http://superblockchain.con-ip.com/plura,21,174
 https://plurapool.com,21,175
 https://plura.minercountry.com,21,176
 http://pool.boldprivate.network,154,177
@@ -399,7 +400,6 @@ https://pool2.zelerius.org,217,977
 http://youpool.io/ZLS,217,982
 https://pool.webchain.network,213,984
 http://webchainpool.com,213,990
-http://web.jokercms.com,213,991
 http://webchain.pool.krunzy.com,213,992
 http://pyrex-pool.tokl.io,61,994
 https://pyrexcoin.my-mining-pool.de,61,995
@@ -911,7 +911,6 @@ https://xmlc.gonspool.com,263,1913
 http://eu.swap.pool.krunzy.com,262,1914
 http://us.swap.pool.krunzy.com,262,1915
 http://ap.swap.pool.krunzy.com,262,1916
-http://minersrepublic.com/swap,262,1917
 http://fred.communitypool.org,219,1920
 http://the-miners.de/Arqma,137,1921
 https://webccx.semipool.com,142,1922
@@ -999,6 +998,7 @@ http://the-miners.de/lethean,16,2043
 http://www.coinsforhash.com/nibble,256,2044
 http://www.coinsforhash.com/swap,262,2045
 http://www.coinsforhash.com/fred,219,2046
+http://207.180.246.163/fury,224,2047
 https://xtri.hashpool.cc,277,2048
 https://triton.smartcoinpool.com,277,2049
 https://cryptoknight.cc/triton,277,2050
@@ -1044,7 +1044,9 @@ http://xnb.superpools.online,264,2117
 https://caliber.my-mining-pool.de,229,2124
 http://xcash.superpools.online,178,2127
 http://207.180.246.163,259,2130
+http://dego.pool.flowmine.xyz,272,2131
 https://webdego.semipool.com,272,2132
+https://cnpool.cc/dego,272,2134
 https://cx.cryptomine.cx,258,2137
 https://cx.thepiratemine.nl,258,2138
 http://youpool.io/ARBO,278,2139
@@ -1055,6 +1057,7 @@ http://youpool.io/TRD,281,2143
 https://crypto9coin.cf/trd,281,2144
 https://crypto9coin.cf/invc,282,2145
 http://xsu.cryptonote.club,276,2146
+https://cnpool.cc/xsu,276,2147
 http://vgc.cryptonote.club,234,2148
 http://bloc.cryptonote.club,113,2150
 http://zls.superpools.online,217,2151
@@ -1064,3 +1067,6 @@ http://pool.getazur.org,268,2158
 http://azur.cryptocoins-digging.space,268,2160
 https://www.enigma-mining.de/azur,268,2161
 https://wrkz.cryptonight.mine.nu,143,2166
+http://qwc.superpools.online,23,2170
+http://arq.superpools.online,137,2172
+https://btor.cryptocoins-digging.space,216,2173
