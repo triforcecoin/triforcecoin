@@ -369,7 +369,6 @@ http://youpool.io/NUTU,111,879
 http://youpool.io/AMIT,218,880
 http://fredcoinpool.com,219,882
 https://crypto9coin.cf/hosp,221,884
-http://hospitalcoin.net/pool,221,885
 https://hosp.xmining.pro,221,886
 http://www.tritaniummining.com,222,887
 http://youpool.io/FEDG,223,888
@@ -396,6 +395,7 @@ http://youpool.io/PYREX,61,927
 http://bdx.superpools.online,240,930
 https://freehaven.pocketwhale.info,243,931
 https://pool2.zelerius.org,217,977
+http://pool.zelerius.ru,217,978
 http://youpool.io/ZLS,217,982
 https://pool.webchain.network,213,984
 http://webchainpool.com,213,990
@@ -407,6 +407,7 @@ http://graft.thorshammer.cc,12,997
 https://graftpool.network,12,998
 https://graftpro.com,12,999
 https://www.dark-mine.su/graft,12,1000
+http://graft.cryptocrush.cc,12,1001
 http://grftpool.com,12,1002
 https://graft.hashnetwork.net,12,1003
 http://magicpool.my.to,12,1005
@@ -428,6 +429,7 @@ http://wow.superpools.online,67,1033
 https://wownero.modpool.org,67,1034
 http://the-miners.de/fury,224,1035
 https://fury.thepiratemine.nl,224,1037
+https://mutex.almsoft.net,112,1039
 https://mutex.multiminer.us,112,1041
 https://mutex.smartcoinpool.com,112,1042
 https://asiapool.io/mutex,112,1043
@@ -436,6 +438,7 @@ http://hosp.ms-pool.net.ua,221,1048
 https://hosp.bluerockpools.net,221,1049
 https://hosp.optimusblue.com,221,1050
 http://youpool.io/HOSP,221,1051
+https://cpa.romining.farm,199,1052
 https://cpa.thepiratemine.nl,199,1054
 https://www.supportxmr.com,1,1055
 https://moneroocean.stream,1,1056
@@ -1064,7 +1067,6 @@ http://zls.superpools.online,217,2151
 https://grftpool.io,12,2153
 https://communitypool.org/arqma,137,2156
 http://pool.getazur.org,268,2158
-http://azur.cryptocoins-digging.space,268,2160
 https://www.enigma-mining.de/azur,268,2161
 https://wrkz.cryptonight.mine.nu,143,2166
 http://qwc.superpools.online,23,2170
