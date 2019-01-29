@@ -440,9 +440,11 @@ https://moneroocean.stream,1,1056
 https://bohemianpool.com,1,1057
 https://xmrpool.net,1,1058
 https://pool.xmr.pt,1,1060
+http://monero.gt,1,1061
 https://xmr.mine.pro,1,1064
 https://myo-xmr.com,1,1065
 https://greenpool.site,1,1066
+https://monero.pool-moscow.ru,1,1070
 http://idpool.majanetwork.com/xmr,1,1071
 https://www.dark-mine.su/monero,1,1074
 https://minergate.com,1,1082
@@ -576,7 +578,6 @@ https://newpool.pw/sumo,26,1340
 https://sumobcn.minercountry.com,26,1341
 https://sumo.semipool.com,26,1342
 http://edollar.poolmining.it,8,1344
-https://edl.easypool.pro,8,1345
 http://youpool.io/CBC,151,1347
 https://communitypool.org/vgc,234,1350
 http://spes.minercountry.com,87,1352
@@ -931,7 +932,6 @@ http://bestupxpool.sytes.net,237,1952
 https://crypto9coin.cf/upx,237,1955
 https://upx.leafpool.com,237,1956
 http://youpool.io/UPX,237,1957
-https://cnpool.cc/upx,237,1959
 https://arqma.minercountry.com,137,1960
 https://wow.codpool.com,67,1962
 https://www.enigma-mining.de/pars,95,1963
@@ -1042,7 +1042,6 @@ https://caliber.my-mining-pool.de,229,2124
 http://xcash.superpools.online,178,2127
 http://207.180.246.163,259,2130
 https://webdego.semipool.com,272,2132
-https://cnpool.cc/dego,272,2134
 https://cx.cryptomine.cx,258,2137
 https://cx.thepiratemine.nl,258,2138
 http://youpool.io/ARBO,278,2139
@@ -1053,7 +1052,6 @@ http://youpool.io/TRD,281,2143
 https://crypto9coin.cf/trd,281,2144
 https://crypto9coin.cf/invc,282,2145
 http://xsu.cryptonote.club,276,2146
-https://cnpool.cc/xsu,276,2147
 http://vgc.cryptonote.club,234,2148
 http://bloc.cryptonote.club,113,2150
 http://zls.superpools.online,217,2151
