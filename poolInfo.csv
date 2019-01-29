@@ -64,6 +64,7 @@ https://cryptoknight.cc/btcn,42,183
 https://btcn.algohash.com,42,184
 http://minexmr.com,1,188
 https://monero.crypto-pool.fr,1,189
+https://monerohash.com,1,191
 https://web.xmrpool.eu,1,192
 http://monero.miners.pro,1,193
 https://pooldd.com,1,194
@@ -101,9 +102,7 @@ https://graft.spacepools.org,12,245
 http://graft.usaminingpool.com,12,251
 https://pool.graft.community,12,252
 https://graft.cool-pool.net,12,255
-https://grft.cryptoblock.uk,12,260
 http://graftpool.graft.mnlabs.net,12,262
-https://mining.bit.tube,13,264
 https://cryptoknight.cc/ipbc,13,266
 https://tube.bluerockpools.net,13,269
 https://newpool.pw/tube,13,270
@@ -119,7 +118,6 @@ http://stellite.smartcoinpool.com,33,298
 https://stellite.my-mining-pool.de,33,299
 https://xtl.steadyhash.org,33,300
 http://stellite.ethospool.org,33,301
-https://xtl.cryptoblock.uk,33,302
 http://pocketminer.co.uk/pool/xtl,33,304
 https://aeon-pool.com,82,305
 https://aeonhash.com,82,306
@@ -214,9 +212,11 @@ https://saronite.miner.rocks,114,453
 http://saronite.smartcoinpool.com,114,455
 https://arq.multiminer.us,137,456
 https://cryptoknight.cc/arq,137,457
+https://arqma.my-mining-pool.de,137,466
 https://xlc.dark-mine.su,32,479
 http://xlc.crypto-coins.club,32,480
 http://www.supportxlc.com,32,482
+https://leviar.my-mining-pool.de,32,483
 http://minexcash.com,178,484
 https://xcash.arhash.xyz,178,485
 http://xca.hashparty.net,178,486
