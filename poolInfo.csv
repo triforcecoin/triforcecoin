@@ -34,7 +34,6 @@ http://pool.karbowanec.com,18,131
 http://karbo-pool.pp.ua,18,133
 http://krb.kopanka.com,18,134
 http://krb.pool.ualinux.com,18,135
-https://krbpool.pp.ua,18,136
 http://krb.mypool.online,18,138
 http://krb.superpools.online,18,140
 http://krb.sintezpool.com,18,141
@@ -913,6 +912,7 @@ https://xmlc.gonspool.com,263,1913
 http://eu.swap.pool.krunzy.com,262,1914
 http://us.swap.pool.krunzy.com,262,1915
 http://ap.swap.pool.krunzy.com,262,1916
+http://minersrepublic.com/swap,262,1917
 http://fred.communitypool.org,219,1920
 http://the-miners.de/Arqma,137,1921
 https://webccx.semipool.com,142,1922
@@ -936,6 +936,7 @@ http://bestupxpool.sytes.net,237,1952
 https://crypto9coin.cf/upx,237,1955
 https://upx.leafpool.com,237,1956
 http://youpool.io/UPX,237,1957
+https://cnpool.cc/upx,237,1959
 https://arqma.minercountry.com,137,1960
 https://wow.codpool.com,67,1962
 https://www.enigma-mining.de/pars,95,1963
@@ -1066,8 +1067,11 @@ http://zls.superpools.online,217,2151
 https://grftpool.io,12,2153
 https://communitypool.org/arqma,137,2156
 http://pool.getazur.org,268,2158
+http://azur.cryptocoins-digging.space,268,2160
 https://www.enigma-mining.de/azur,268,2161
 https://wrkz.cryptonight.mine.nu,143,2166
+https://cnpool.cc/ccx,142,2167
+https://bloc.hashvault.pro,113,2169
 http://qwc.superpools.online,23,2170
 http://arq.superpools.online,137,2172
 https://btor.cryptocoins-digging.space,216,2173
