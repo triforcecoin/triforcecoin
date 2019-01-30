@@ -232,6 +232,7 @@ http://pool.coin42.co,172,501
 http://mutex.hashparty.io,112,505
 http://mine.mutexcurrency.io,112,506
 https://mutx.bluerockpools.net,112,507
+https://supportxmr.com,1,509
 http://cryptoknight.cc/b2b,2,510
 https://crep.miner.rocks,5,513
 http://dero.cryptopool.space,7,515
@@ -250,6 +251,7 @@ http://worktips.work,52,550
 https://tyche.simpool.xyz,57,553
 http://mine.klondikepool.com/,66,557
 https://croat-api.pool.cat,75,561
+https://api.aeonminingpool.com,82,566
 https://pool.solace-coin.com,85,569
 http://pool.myspes.org,87,571
 http://45.76.251.222,88,572
@@ -904,7 +906,6 @@ http://btr.cryptocoins-digging.space,265,1911
 https://arms.blockfoundry.org,180,1912
 https://xmlc.gonspool.com,263,1913
 http://eu.swap.pool.krunzy.com,262,1914
-http://us.swap.pool.krunzy.com,262,1915
 http://ap.swap.pool.krunzy.com,262,1916
 http://minersrepublic.com/swap,262,1917
 http://fred.communitypool.org,219,1920
