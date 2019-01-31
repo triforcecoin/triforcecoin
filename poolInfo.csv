@@ -819,9 +819,9 @@ https://disjampools.us/btor,216,1820
 https://idpool.majanetwork.com/ird,14,1821
 https://idpool.majanetwork.com/etnx,120,1822
 http://youpool.io/XNB,264,1823
+https://cnpool.cc/xnb,264,1824
 https://ryo.nons.xyz,131,1826
 https://idpool.majanetwork.com/ryo,131,1827
-https://www.gpumining.ir/italo,15,1828
 https://idpool.majanetwork.com/xrn,114,1830
 https://idpool.majanetwork.com/ombre,20,1832
 https://idpool.majanetwork.com/haven,31,1833
@@ -840,6 +840,7 @@ https://fredenergy.my-mining-pool.de,219,1862
 https://loki.modpool.org,100,1866
 https://pyrex.smartcoinpool.com,61,1868
 http://pool.sevabit.com,273,1869
+https://pool.cutcoin.org,274,1870
 https://xcy.cnpools.space,231,1871
 http://youpool.io/MTIP,156,1872
 http://minersrepublic.com,47,1874
@@ -951,7 +952,6 @@ http://www.coinsforhash.com/nibble,256,2044
 http://www.coinsforhash.com/swap,262,2045
 http://www.coinsforhash.com/fred,219,2046
 http://207.180.246.163/fury,224,2047
-https://xtri.hashpool.cc,277,2048
 https://triton.smartcoinpool.com,277,2049
 https://cryptoknight.cc/triton,277,2050
 https://triton.my-mining-pool.de,277,2051
@@ -960,12 +960,10 @@ https://webxtri.semipool.com,277,2053
 https://trit.codpool.com,277,2054
 http://btr.cryptocoins-digging.space,271,2057
 https://www.enigma-mining.de/btr,271,2059
-https://bdx.luckypool.io,257,2061
 https://easyhash.pro/bdx,257,2064
 https://beldex.smartcoinpool.com,257,2066
 https://newpool.pw/bdx/,257,2071
 https://pool.saronite.info,236,2072
-https://xrn.hashpool.cc,236,2073
 https://cryptoknight.cc/saronite,236,2074
 https://saronite.hashvault.pro,236,2075
 https://saronite.miner.rocks,236,2076
@@ -996,7 +994,6 @@ http://xnb.superpools.online,264,2117
 https://caliber.my-mining-pool.de,229,2124
 http://xcash.superpools.online,178,2127
 http://207.180.246.163,259,2130
-http://dego.pool.flowmine.xyz,272,2131
 https://webdego.semipool.com,272,2132
 https://cnpool.cc/dego,272,2134
 https://cx.cryptomine.cx,258,2137
