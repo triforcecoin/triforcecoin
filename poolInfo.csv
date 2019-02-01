@@ -75,7 +75,6 @@ https://cryptoknight.cc/monero,1,200
 https://multipooler.com,1,201
 http://mmmoneropool.com,1,203
 http://xmr.bubblemine.com,1,205
-https://xmr.steadyhash.org,1,206
 https://xmr.minercountry.com,1,207
 http://pocketminer.co.uk/pool,1,209
 https://easyhash.pro/xdn,145,211
@@ -95,7 +94,6 @@ https://haven.miner.rocks,31,231
 https://xhv.codpool.com,31,232
 https://pool.havenprotocol.com,31,233
 http://pool.haven.frackingminer.com,31,234
-https://xhv.steadyhash.org,31,238
 https://newpool.pw/haven,31,241
 https://cryptoknight.cc/graft,12,244
 https://graft.spacepools.org,12,245
@@ -434,6 +432,7 @@ http://monero.gt,1,1061
 https://xmr.mine.pro,1,1064
 https://myo-xmr.com,1,1065
 https://greenpool.site,1,1066
+https://monero.pool-moscow.ru,1,1070
 http://idpool.majanetwork.com/xmr,1,1071
 https://www.dark-mine.su/monero,1,1074
 https://minergate.com,1,1082
@@ -518,6 +517,8 @@ https://aeon.hashpool.vip,82,1240
 https://aeon.pool.gntl.co.uk,82,1243
 https://aeon.minercountry.com,82,1244
 https://aeon.semipool.com,82,1246
+https://arms01.p2poolmining.us,180,1247
+https://arms.cnpools.space,180,1248
 https://communitypool.org/2acoin,180,1249
 https://trtl.llama.horse,29,1255
 https://turtle.hashvault.pro,29,1257
