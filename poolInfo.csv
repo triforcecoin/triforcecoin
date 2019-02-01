@@ -137,7 +137,6 @@ https://ryo.codpool.com,131,324
 https://cryptoknight.cc/ryo,131,327
 https://cryptoknight.cc/msr,19,328
 http://www.masaripool.com,19,329
-http://id.masari.network,19,330
 https://msr.optimusblue.com,19,336
 https://msr.bluerockpools.net,19,337
 https://msr.codpool.com,19,338
@@ -200,11 +199,9 @@ https://triton.minercountry.com,245,433
 https://trit.codpool.com,245,436
 https://cryptoknight.cc/iridium,14,439
 https://irdpool.eu,14,440
-https://irdpool.fr,14,442
 https://irdpool.ca,14,443
 https://ird.codpool.com,14,444
 http://iridiumpool.duckdns.org,14,445
-http://ird.cryptoisme.com,14,449
 https://irdpool.net,14,450
 https://iridium.smartcoinpool.com,14,452
 https://saronite.miner.rocks,114,453
@@ -613,11 +610,9 @@ https://tube.solopool.org,13,1447
 https://tube.pool.gntl.co.uk,13,1454
 http://tube.superpools.online,13,1455
 https://tube.semipool.com,13,1456
-https://loki.elasticpool.com,100,1458
 http://idpool.majanetwork.com/loki,100,1460
 http://loki.thulani.za.net,100,1461
 http://pocketminer.co.uk/pool/loki,100,1462
-https://loki.aussie-pools.com,100,1466
 https://loki.cryptocoins-digging.space,100,1467
 http://pool.loki.frackingminer.com,100,1468
 http://loki.multipool.xyz,100,1469
@@ -628,7 +623,6 @@ https://loki.steadyhash.org,100,1476
 https://bloc-mining.eu,113,1477
 https://bloc-mining.asia,113,1478
 https://bloc.scecf.org,113,1480
-http://bloc.proxpool.com,113,1482
 http://bloc.multipool.xyz,113,1484
 https://pool.saronite.info,114,1489
 https://cryptoknight.cc/saronite,114,1493
@@ -640,6 +634,7 @@ https://ombre-pool.theskynet.xyz,20,1503
 https://ombre.my-mining-pool.de,20,1506
 https://havencoin-pool.com,31,1508
 https://haven.majanetwork.com,31,1509
+https://www.gpumining.ir/haven,31,1513
 https://xhv.cryptopool.space,31,1520
 https://haven.modpool.org,31,1521
 https://xhv.semipool.com,31,1522
@@ -1022,7 +1017,6 @@ http://xnb.superpools.online,264,2117
 https://caliber.my-mining-pool.de,229,2124
 http://xcash.superpools.online,178,2127
 http://207.180.246.163,259,2130
-http://dego.pool.flowmine.xyz,272,2131
 https://webdego.semipool.com,272,2132
 https://cnpool.cc/dego,272,2134
 https://cx.cryptomine.cx,258,2137
