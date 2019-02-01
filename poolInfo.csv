@@ -105,7 +105,6 @@ https://graft.cool-pool.net,12,255
 http://graftpool.graft.mnlabs.net,12,262
 https://mining.bit.tube,13,264
 https://cryptoknight.cc/ipbc,13,266
-https://tube.bluerockpools.net,13,269
 https://newpool.pw/tube,13,270
 https://tube.steadyhash.org,13,271
 https://cryptoknight.cc/loki,100,274
@@ -138,7 +137,6 @@ https://cryptoknight.cc/ryo,131,327
 https://cryptoknight.cc/msr,19,328
 http://www.masaripool.com,19,329
 https://msr.optimusblue.com,19,336
-https://msr.bluerockpools.net,19,337
 https://msr.codpool.com,19,338
 https://masari.blockfoundry.org,19,340
 http://pool.batminer.network,19,341
@@ -160,7 +158,6 @@ http://b2n.simpool.xyz,105,369
 http://superiorcoinpool.com,27,370
 https://boolberry.miner.rocks,89,372
 http://mining.blue,89,373
-http://bbr.miningclub.info,89,374
 http://mbkpool.info,89,376
 http://beta.ultranote.org,34,378
 https://xmv.codpool.com,103,382
@@ -325,6 +322,7 @@ https://sumo.hashvault.pro,26,829
 https://lethean.hashvault.pro,16,830
 https://graft.hashvault.pro,12,831
 https://stellite.hashvault.pro,33,832
+https://haven.hashvault.pro,31,833
 https://ryo.hashvault.pro,131,835
 http://DSH.MyPool.Online,206,838
 http://COAL.MyPool.Online,4,839
@@ -749,12 +747,10 @@ https://arqidium.smartcoinpool.com,137,1694
 https://arq.pool.gntl.co.uk,137,1695
 https://disjampools.us/arqma,137,1696
 https://disjampools.us/ccx,142,1699
-https://kepl.bluerockpools.net,84,1701
 http://tychecash.net,57,1702
 http://tyc.gonspool.com,57,1703
 http://tyc.kunpoolsion.tk,57,1704
 https://newpool.pw/inc,81,1708
-https://xvv.bluerockpools.net,191,1709
 https://ryo.heigh-ho.funkypenguin.co.nz,131,1710
 https://ryo.bluerockpools.net,131,1711
 https://cch.hashpool.cc,176,1712
@@ -787,7 +783,6 @@ https://jyocoin.modpool.org,252,1749
 https://xlc.codpool.com,32,1750
 https://supportqrl.com,157,1751
 https://qrl.hoku.to,157,1752
-https://lthn.bluerockpools.net,16,1753
 http://london-uk.pools.minexca.com,178,1755
 https://disjampools.us/xcash,178,1758
 https://xmlc.nbxpool.com,263,1761
@@ -941,7 +936,6 @@ https://www.waterparkmining.com,67,2003
 https://frty.cnpools.space,172,2005
 http://lethean.io/pool,16,2006
 https://www.waterparkmining.com,16,2007
-https://hosp.bluerockpools.net,33,2008
 https://www.waterparkmining.com,178,2009
 https://newpool.pw/xcy/,231,2010
 http://ccx.aiwakuang.cn,142,2012
