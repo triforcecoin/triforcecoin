@@ -221,7 +221,6 @@ http://cryptoknight.cc/b2b,2,510
 https://crep.miner.rocks,5,513
 http://dero.cryptopool.space,7,515
 https://electroneum.hashvault.pro,9,517
-https://karbo.hashvault.pro,18,525
 https://masari.hashvault.pro,19,526
 https://cryptoknight.cc/ombre,20,527
 http://pool.arto.cash,24,530
@@ -317,7 +316,6 @@ https://sumo.hashvault.pro,26,829
 https://lethean.hashvault.pro,16,830
 https://graft.hashvault.pro,12,831
 https://stellite.hashvault.pro,33,832
-https://haven.hashvault.pro,31,833
 https://ryo.hashvault.pro,131,835
 http://DSH.MyPool.Online,206,838
 http://COAL.MyPool.Online,4,839
@@ -469,6 +467,7 @@ http://safex.cryptominingpools.net,212,1168
 https://cryptoknight.cc/safex,212,1169
 https://safex.luckypool.io,212,1170
 https://safex.pool.cnpools.space,212,1172
+https://safex.cool-pool.net,212,1173
 https://xcashpool.xyz,178,1175
 http://xca.1isolution.com,178,1177
 https://xcash.hashvault.pro,178,1181
@@ -490,6 +489,7 @@ https://get.masaricoin.com,19,1203
 https://www.dark-mine.su/masari,19,1205
 https://masari.czechiapool.com,19,1208
 https://msr.pool.gntl.co.uk,19,1213
+https://msr.go-mine.it,19,1214
 https://masari.modpool.org,19,1215
 https://ple.llama.horse,179,1217
 https://plenteum.virtopia.ca,179,1218
