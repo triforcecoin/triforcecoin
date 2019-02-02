@@ -423,7 +423,6 @@ https://xmr.pool.gntl.co.uk,1,1093
 https://xmr.go-mine.it,1,1094
 https://xmr.semipool.com,1,1097
 https://citadel.my-mining-pool.de,91,1105
-http://youpool.io/CTL,91,1106
 https://communitypool.org/ctl,91,1107
 http://cal.m00n.top,229,1111
 https://cryptoknight.cc/caliber,229,1112
@@ -486,6 +485,7 @@ https://plenteum.virtopia.ca,179,1218
 http://the-miners.de/Plenteum,179,1221
 https://plenteum.clevery.xyz,179,1222
 https://ple.optimusblue.com,179,1223
+http://plenteum.miner.care/,179,1224
 https://plenteum.my-mining-pool.de,179,1225
 http://cnpool.cc/xcy,231,1226
 https://pooltupi.com,82,1229
@@ -497,6 +497,7 @@ https://aeon.minercountry.com,82,1244
 https://aeon.semipool.com,82,1246
 https://arms01.p2poolmining.us,180,1247
 https://arms.cnpools.space,180,1248
+https://communitypool.org/2acoin,180,1249
 https://trtl.ninja,29,1250
 https://trtl.llama.horse,29,1255
 https://turtle.hashvault.pro,29,1257
@@ -512,6 +513,7 @@ https://worktips.my-mining-pool.de,52,1276
 https://communitypool.org/worktips,52,1278
 https://intu.gonspool.com,96,1279
 https://intucoin.my-mining-pool.de,96,1281
+http://youpool.io/LMO,187,1287
 https://pool.arqma.com,137,1292
 https://arq.semipool.com,137,1294
 https://pool.conceal.network,142,1295
@@ -538,6 +540,7 @@ https://newpool.pw/sumo,26,1340
 https://sumobcn.minercountry.com,26,1341
 https://sumo.semipool.com,26,1342
 http://edollar.poolmining.it,8,1344
+http://youpool.io/CBC,151,1347
 https://communitypool.org/vgc,234,1350
 http://spes.minercountry.com,87,1352
 https://communitypool.org/spes,87,1353
@@ -835,7 +838,6 @@ https://pyrex.smartcoinpool.com,61,1868
 http://pool.sevabit.com,273,1869
 https://pool.cutcoin.org,274,1870
 https://xcy.cnpools.space,231,1871
-http://youpool.io/MTIP,156,1872
 http://minersrepublic.com,47,1874
 http://sg.ultranote.org,34,1875
 http://ca.ultranote.org,34,1876
@@ -988,7 +990,6 @@ https://webdego.semipool.com,272,2132
 https://cnpool.cc/dego,272,2134
 https://cx.cryptomine.cx,258,2137
 https://cx.thepiratemine.nl,258,2138
-http://youpool.io/ARBO,278,2139
 http://youpool.io/SEVA,273,2140
 http://youpool.io/TMY,280,2141
 https://pool.bittrader.io,281,2142
