@@ -224,7 +224,6 @@ http://youpool.io/XCASH,178,487
 https://x-cash.my-mining-pool.de,178,489
 http://xca.mineme.stream,178,490
 https://xca.bluerockpools.net,178,491
-http://xca.rubypool.com,178,492
 https://xca.cryptogains.fr,178,493
 https://42.cnpools.space,172,500
 http://pool.coin42.co,172,501
@@ -417,7 +416,6 @@ https://bohemianpool.com,1,1057
 https://pool.xmr.pt,1,1060
 http://monero.gt,1,1061
 https://xmr.mine.pro,1,1064
-https://myo-xmr.com,1,1065
 https://greenpool.site,1,1066
 https://monero.pool-moscow.ru,1,1070
 http://idpool.majanetwork.com/xmr,1,1071
@@ -493,7 +491,6 @@ https://ple.optimusblue.com,179,1223
 https://plenteum.my-mining-pool.de,179,1225
 http://cnpool.cc/xcy,231,1226
 https://pooltupi.com,82,1229
-https://www.durinsmine.com,82,1230
 https://aeon.mineropolis.com,82,1233
 https://aeon.privpool.com,82,1237
 https://aeon.hashpool.vip,82,1240
@@ -562,7 +559,6 @@ http://bkc.bubblemine.com,49,1388
 https://bkc.go-mine.it,49,1390
 http://pool01.lithiumbit.com,101,1398
 https://communitypool.org/inc,81,1401
-http://xvv.rubypool.com,191,1402
 http://veronite.ml,191,1403
 https://ryo.bohemianpool.com,131,1408
 https://ryo.majanetwork.com,131,1409
@@ -718,6 +714,7 @@ https://xtri.hashpool.cc,41,1667
 https://msr.heigh-ho.funkypenguin.co.nz,19,1669
 https://disjampools.us/ple,179,1671
 https://communitypool.org/mtip,156,1673
+https://arms.cryptomine.cx,180,1675
 https://turtle.modpool.org,29,1676
 https://swap.pocketwhale.info,262,1678
 https://swap.bitkitten.xyz,262,1679
@@ -730,6 +727,7 @@ https://arq.heigh-ho.funkypenguin.co.nz,137,1693
 https://arqidium.smartcoinpool.com,137,1694
 https://arq.pool.gntl.co.uk,137,1695
 https://disjampools.us/arqma,137,1696
+http://xavieron.us/arqma,137,1697
 https://disjampools.us/ccx,142,1699
 https://kepl.bluerockpools.net,84,1701
 http://tychecash.net,57,1702
@@ -756,6 +754,7 @@ http://graftminingpool.tk,12,1729
 https://grft.hashpool.cc,12,1730
 https://wow.hashpool.cc,67,1731
 https://disjampools.us/fury,224,1732
+https://cpa.cryptomine.cx,199,1734
 https://cpacoin.my-mining-pool.de,199,1735
 https://cpa.multiminer.us,199,1736
 https://xmr.hashpool.cc,1,1739
@@ -814,6 +813,7 @@ https://btor.thepiratemine.nl,216,1819
 https://disjampools.us/btor,216,1820
 https://idpool.majanetwork.com/ird,14,1821
 https://idpool.majanetwork.com/etnx,120,1822
+http://youpool.io/XNB,264,1823
 https://cnpool.cc/xnb,264,1824
 https://ryo.nons.xyz,131,1826
 https://idpool.majanetwork.com/ryo,131,1827
@@ -863,6 +863,8 @@ http://the-miners.de/Arqma,137,1921
 https://webccx.semipool.com,142,1922
 https://xao.codpool.com,30,1924
 https://newpool.pw/xnb,264,1925
+http://youpool.io/QWC,23,1928
+https://minehycon.com,269,1931
 http://jyo.minecrypto.nl,252,1932
 https://disjampools.us/jyo,252,1933
 https://newpool.pw/xcash/,178,1934
