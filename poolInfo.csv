@@ -593,7 +593,6 @@ http://pool.geemexplorer.com,116,1319
 https://dero.herominers.com,7,1322
 http://cnpool.cc/dero,7,1327
 https://dero.semipool.com,7,1328
-https://pk.easypool.pro,107,1329
 http://youpool.io/PK,107,1330
 https://communitypool.org/pk,107,1331
 https://sumo-pool.theskynet.xyz,26,1333
@@ -621,11 +620,11 @@ http://pool.b2bcoin.ml,2,1372
 https://communitypool.org/b2b,2,1373
 http://coal.mining.garden,4,1374
 https://dashboard.bytecoin.party,3,1377
-https://plura.llama.horse,21,1379
 https://karbo.herominers.com,18,1382
 https://krb.semipool.com,18,1385
 http://pool.balkancoin.org,49,1386
 http://bkc.bubblemine.com,49,1388
+https://bkc.go-mine.it,49,1390
 https://crypto9coin.cf/bdx,240,1395
 https://beldex.fairhash.org,240,1397
 http://pool01.lithiumbit.com,101,1398
@@ -703,6 +702,7 @@ https://etnxp.crypto-pool.pro,244,1525
 https://pulse.thorshammer.cc,244,1526
 https://etnxp.hashfactory.online,244,1527
 https://mtips.arhash.xyz,156,1528
+https://mtip.heigh-ho.funkypenguin.co.nz,156,1529
 https://webetnx.semipool.com,244,1532
 https://webetnx.semipool.com,244,1533
 https://webgrft.semipool.com,12,1534
@@ -1092,7 +1092,6 @@ http://xnb.superpools.online,264,2117
 https://caliber.my-mining-pool.de,229,2124
 http://xcash.superpools.online,178,2127
 http://207.180.246.163,259,2130
-https://webdego.semipool.com,272,2132
 https://cnpool.cc/dego,272,2134
 https://cx.cryptomine.cx,258,2137
 https://cx.thepiratemine.nl,258,2138
