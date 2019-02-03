@@ -384,7 +384,6 @@ http://pyrex-pool.tokl.io,61,994
 https://pyrexcoin.my-mining-pool.de,61,995
 https://pyx.cryptohispano.net,61,996
 http://graft.thorshammer.cc,12,997
-https://graftpool.network,12,998
 https://www.dark-mine.su/graft,12,1000
 http://grftpool.com,12,1002
 https://graft.hashnetwork.net,12,1003
@@ -480,7 +479,6 @@ http://cnpool.cc/ttnz,222,1198
 https://tritanium.smartcoinpool.com,222,1199
 https://crypto9coin.cf/ttnz,222,1200
 http://msr.soyminero.es,19,1202
-https://get.masaricoin.com,19,1203
 https://www.dark-mine.su/masari,19,1205
 https://masari.czechiapool.com,19,1208
 https://msr.pool.gntl.co.uk,19,1213
@@ -525,6 +523,7 @@ https://pool.arqma.com,137,1292
 https://arq.semipool.com,137,1294
 https://pool.conceal.network,142,1295
 https://ccx.scecf.org,142,1296
+https://ccx.go-mine.it,142,1299
 https://conceal.modpool.org,142,1301
 https://conceal.my-mining-pool.de,142,1302
 https://pool.lines.pw,54,1303
@@ -564,6 +563,7 @@ https://krb.semipool.com,18,1385
 http://pool.balkancoin.org,49,1386
 http://bkc.bubblemine.com,49,1388
 https://bkc.go-mine.it,49,1390
+https://crypto9coin.cf/bdx,240,1395
 http://pool01.lithiumbit.com,101,1398
 https://communitypool.org/inc,81,1401
 http://xvv.rubypool.com,191,1402
@@ -586,6 +586,7 @@ http://youpool.io/CCH,176,1435
 http://cnpool.cc/cch,176,1436
 https://cch.semipool.com,176,1437
 https://bxb.scecf.org,126,1439
+http://bixbite.multipool.xyz,126,1440
 http://coinpoolit.webhop.me/tube,13,1444
 https://bittube.hashvault.pro,13,1446
 https://tube.solopool.org,13,1447
@@ -617,6 +618,7 @@ http://superblockchain.con-ip.com/qwc,23,1502
 https://ombre-pool.theskynet.xyz,20,1503
 https://ombre.my-mining-pool.de,20,1506
 https://havencoin-pool.com,31,1508
+https://www.gpumining.ir/haven,31,1513
 https://xhv.cryptopool.space,31,1520
 https://haven.modpool.org,31,1521
 https://xhv.semipool.com,31,1522
@@ -788,7 +790,6 @@ https://mining.ipbc.rocks,214,1774
 https://mining.asia.ipbc.rocks,214,1775
 https://communitypool.org/xcn,233,1778
 https://blochaven.smartcoinpool.com,113,1779
-http://cnpool.cc/grft,12,1780
 https://monero.miningpool.online,1,1781
 https://stellite.miningpool.online,33,1782
 http://pool.xeonbit.com,264,1784
@@ -847,7 +848,6 @@ http://sg.ultranote.org,34,1875
 http://ca.ultranote.org,34,1876
 http://de.ultranote.org,34,1877
 http://nbr.proxpool.com,37,1882
-https://cnpool.cc/cut,274,1887
 http://youpool.io/XMLC,263,1894
 https://xmlc.thepiratemine.nl,263,1895
 http://xunpool.cf,34,1899
