@@ -100,7 +100,6 @@ http://graft.usaminingpool.com,12,251
 https://pool.graft.community,12,252
 https://graft.cool-pool.net,12,255
 http://graftpool.graft.mnlabs.net,12,262
-https://mining.bit.tube,13,264
 https://cryptoknight.cc/ipbc,13,266
 https://newpool.pw/tube,13,270
 https://tube.steadyhash.org,13,271
@@ -330,6 +329,7 @@ http://BIP.MyPool.Online,201,840
 http://NNC.MyPool.Online,77,841
 https://xpp.arhash.xyz,152,843
 https://worktips.cryptohispano.net,52,847
+https://xpp.cryptohispano.net,152,849
 http://nbr.4miner.me,37,854
 http://mkt.4miner.me,71,855
 http://crep.4miner.me,5,856
@@ -597,7 +597,6 @@ http://pool.loki.frackingminer.com,100,1468
 http://loki.multipool.xyz,100,1469
 https://loki.hashvault.pro,100,1470
 https://loki.solopool.org,100,1471
-https://loki.basementpool.org,100,1474
 https://loki.steadyhash.org,100,1476
 https://bloc-mining.eu,113,1477
 https://bloc-mining.asia,113,1478
@@ -796,7 +795,6 @@ https://mtip.llama.horse,156,1792
 https://wow.llama.horse,67,1799
 http://173.212.249.18/merge,41,1800
 https://idpool.majanetwork.com/msr,19,1801
-https://mtip.gonspool.com,156,1802
 https://trtl.muxdux.com,29,1803
 https://cryptoknight.cc/swap,262,1805
 https://idpool.majanetwork.com/swap,262,1807
