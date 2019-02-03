@@ -102,6 +102,7 @@ https://pool.graft.community,12,252
 https://graft.cool-pool.net,12,255
 http://graftpool.graft.mnlabs.net,12,262
 https://mining.bit.tube,13,264
+https://cryptoknight.cc/ipbc,13,266
 https://tube.bluerockpools.net,13,269
 https://newpool.pw/tube,13,270
 https://tube.steadyhash.org,13,271
@@ -471,7 +472,6 @@ https://cryptoknight.cc/safex,212,1169
 https://safex.luckypool.io,212,1170
 https://safex.pool.cnpools.space,212,1172
 https://safex.cool-pool.net,212,1173
-https://xcashpool.xyz,178,1175
 http://xca.1isolution.com,178,1177
 https://xcash.hashvault.pro,178,1181
 https://xcash.clevery.xyz,178,1184
@@ -874,6 +874,7 @@ http://the-miners.de/Arqma,137,1921
 https://webccx.semipool.com,142,1922
 https://xao.codpool.com,30,1924
 https://newpool.pw/xnb,264,1925
+http://xavieron.us/citicash,176,1927
 http://youpool.io/QWC,23,1928
 https://minehycon.com,269,1931
 http://jyo.minecrypto.nl,252,1932
@@ -929,6 +930,7 @@ https://www.waterparkmining.com,16,2007
 https://hosp.bluerockpools.net,33,2008
 https://www.waterparkmining.com,178,2009
 https://newpool.pw/xcy/,231,2010
+http://ccx.aiwakuang.cn,142,2012
 https://xnb.gonspool.com,264,2015
 https://sumob2b.minercountry.com,26,2017
 https://sumob2b.minercountry.com,2,2018
@@ -961,6 +963,7 @@ https://webxtri.semipool.com,277,2053
 https://trit.codpool.com,277,2054
 http://btr.cryptocoins-digging.space,271,2057
 https://www.enigma-mining.de/btr,271,2059
+https://crypto9coin.cf/bdx,257,2063
 https://easyhash.pro/bdx,257,2064
 https://beldex.smartcoinpool.com,257,2066
 https://newpool.pw/bdx/,257,2071
@@ -1049,3 +1052,5 @@ https://fastpool.xyz/xcy,231,2201
 http://hitc.catpool.club,286,2202
 https://arq.cryptonote.club,137,2203
 https://xtridium.minercountry.com,14,2205
+https://trtl.steadyhash.org,29,2209
+http://nxm.catpool.club,283,2210
