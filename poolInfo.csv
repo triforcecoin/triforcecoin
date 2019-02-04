@@ -333,7 +333,6 @@ http://BIP.MyPool.Online,201,840
 http://NNC.MyPool.Online,77,841
 https://xpp.arhash.xyz,152,843
 https://worktips.cryptohispano.net,52,847
-https://xpp.cryptohispano.net,152,849
 http://nbr.4miner.me,37,854
 http://mkt.4miner.me,71,855
 http://crep.4miner.me,5,856
@@ -451,7 +450,6 @@ https://monero.herominers.com,1,1088
 https://XMR.MyPool.Online,1,1091
 https://xmr.pool.gntl.co.uk,1,1093
 https://xmr.semipool.com,1,1097
-https://citadel.herominers.com,91,1103
 https://citadel.my-mining-pool.de,91,1105
 https://communitypool.org/ctl,91,1107
 http://cal.m00n.top,229,1111
@@ -660,6 +658,7 @@ http://loki.multipool.xyz,100,1469
 https://loki.hashvault.pro,100,1470
 https://loki.solopool.org,100,1471
 https://loki.herominers.com,100,1473
+https://loki.basementpool.org,100,1474
 https://loki.steadyhash.org,100,1476
 https://bloc-mining.eu,113,1477
 https://bloc-mining.asia,113,1478
@@ -669,6 +668,7 @@ http://bloc.multipool.xyz,113,1484
 https://bloc.herominers.com,113,1487
 https://pool.saronite.info,114,1489
 https://xrn.majanetwork.com,114,1492
+https://cryptoknight.cc/saronite,114,1493
 https://saronite.hashvault.pro,114,1494
 https://saronite.herominers.com,114,1496
 https://pool.qwertycoin.org,23,1499
