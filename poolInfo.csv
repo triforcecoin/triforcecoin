@@ -239,6 +239,7 @@ https://sumokoin.hashvault.pro,26,532
 https://goldenhillpool.com,28,534
 https://trtl.semipool.com,29,535
 https://communitypool.stellite.cash,33,539
+http://nbr.ciapool.com,37,542
 https://bsm.cryptopool.space,47,547
 http://mine.klondikepool.com/,66,557
 https://croat-api.pool.cat,75,561
@@ -352,6 +353,7 @@ https://fury.xmining.pro,224,890
 http://loki-pool.com,100,891
 http://etos.world/pool,226,893
 http://loki.blockfoundry.org,100,895
+http://vig.tyk.im,228,897
 https://getpool.org/bzk,44,899
 https://caliber.luckypool.io,229,901
 https://elphyrecoin.clevery.xyz,235,904
@@ -400,6 +402,7 @@ http://graft.hashing.mine.nu,12,1019
 https://graft.luckypool.io,12,1020
 https://grft.semipool.com,12,1021
 https://graft.smartcoinpool.com,12,1022
+https://cryptonote.social/wow,67,1026
 https://wow.majanetwork.com,67,1028
 https://wownero.luckypool.io,67,1029
 https://wownero.my-mining-pool.de,67,1031
@@ -428,6 +431,7 @@ http://monero.gt,1,1061
 https://xmr.mine.pro,1,1064
 https://myo-xmr.com,1,1065
 https://greenpool.site,1,1066
+https://cryptonote.social/xmr,1,1068
 http://xmr.1dig.pro,1,1069
 https://monero.pool-moscow.ru,1,1070
 http://idpool.majanetwork.com/xmr,1,1071
@@ -438,6 +442,7 @@ https://minergate.com,1,1082
 https://monero.herominers.com,1,1088
 https://XMR.MyPool.Online,1,1091
 https://xmr.pool.gntl.co.uk,1,1093
+https://xmr.go-mine.it,1,1094
 https://xmr.semipool.com,1,1097
 https://citadel.my-mining-pool.de,91,1105
 https://communitypool.org/ctl,91,1107
@@ -450,6 +455,7 @@ https://bbs.semipool.com,58,1120
 http://pool.baikalmine.com/en/xmv,103,1122
 https://monerov.herominers.com,103,1123
 https://xmv.go-mine.it,103,1124
+https://solo-xmv.leafpool.com,103,1125
 https://xlc.pool.gntl.co.uk,32,1128
 http://pool.parsicoin.net,95,1129
 https://parsicoin.clevery.xyz,95,1130
@@ -500,6 +506,7 @@ https://crypto9coin.cf/ttnz,222,1200
 https://ttnz.cnpool.vip,222,1201
 http://msr.soyminero.es,19,1202
 https://get.masaricoin.com,19,1203
+https://cryptonote.social/msr,19,1204
 https://www.dark-mine.su/masari,19,1205
 https://masari.czechiapool.com,19,1208
 https://msr.majanetwork.com,19,1209
@@ -521,6 +528,7 @@ https://pooltupi.com,82,1229
 https://www.durinsmine.com,82,1230
 https://aeon-pool.de,82,1231
 https://aeon.mineropolis.com,82,1233
+https://cryptonote.social/aeon,82,1236
 https://aeon.privpool.com,82,1237
 https://aeon.hashpool.vip,82,1240
 https://aeon.herominers.com,82,1242
@@ -531,6 +539,7 @@ https://arms01.p2poolmining.us,180,1247
 https://arms.cnpools.space,180,1248
 https://communitypool.org/2acoin,180,1249
 https://trtl.ninja,29,1250
+https://cryptonote.social/trtl,29,1252
 https://trtl.llama.horse,29,1255
 https://trtl.hackerknowledge.de,29,1256
 https://turtle.hashvault.pro,29,1257
@@ -632,6 +641,7 @@ https://tube.pool.gntl.co.uk,13,1454
 http://tube.superpools.online,13,1455
 https://tube.semipool.com,13,1456
 https://loki.elasticpool.com,100,1458
+https://cryptonote.social/loki,100,1459
 http://idpool.majanetwork.com/loki,100,1460
 http://loki.thulani.za.net,100,1461
 http://pocketminer.co.uk/pool/loki,100,1462
@@ -852,6 +862,7 @@ https://mtip.llama.horse,156,1792
 https://wow.llama.horse,67,1799
 http://173.212.249.18/merge,41,1800
 https://idpool.majanetwork.com/msr,19,1801
+https://mtip.gonspool.com,156,1802
 https://trtl.muxdux.com,29,1803
 https://cryptoknight.cc/swap,262,1805
 https://idpool.majanetwork.com/swap,262,1807
@@ -939,9 +950,11 @@ https://fruitypool.com,237,1951
 http://bestupxpool.sytes.net,237,1952
 http://upxpool.com,237,1954
 https://crypto9coin.cf/upx,237,1955
+https://upx.leafpool.com,237,1956
 https://uplexa.herominers.com,237,1958
 https://cnpool.cc/upx,237,1959
 https://arqma.minercountry.com,137,1960
+https://arq.hackerknowledge.de,137,1961
 https://wow.codpool.com,67,1962
 https://triton.smartcoinpool.com,41,1967
 https://xtri.minercountry.com,41,1968
