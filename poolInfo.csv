@@ -37,7 +37,6 @@ http://krb.mypool.online,18,138
 http://krb.superpools.online,18,140
 http://krb.sintezpool.com,18,141
 https://easyhash.pro/krb,18,143
-http://pool.dero.live,7,145
 https://easyhash.pro/dero,7,146
 http://dero.superpools.online,7,149
 https://dero.smartcoinpool.com,7,151
@@ -391,10 +390,7 @@ http://webchainpool.com,213,990
 http://web.jokercms.com,213,991
 http://webchain.pool.krunzy.com,213,992
 http://pyrex-pool.tokl.io,61,994
-https://pyrexcoin.my-mining-pool.de,61,995
-https://pyx.cryptohispano.net,61,996
 http://graft.thorshammer.cc,12,997
-https://graftpool.network,12,998
 https://graftpro.com,12,999
 https://www.dark-mine.su/graft,12,1000
 http://graft.cryptocrush.cc,12,1001
@@ -454,7 +450,6 @@ https://minergate.com,1,1082
 https://monero.herominers.com,1,1088
 https://XMR.MyPool.Online,1,1091
 https://xmr.pool.gntl.co.uk,1,1093
-https://xmr.go-mine.it,1,1094
 https://xmr.semipool.com,1,1097
 https://citadel.herominers.com,91,1103
 https://citadel.my-mining-pool.de,91,1105
@@ -534,7 +529,6 @@ https://plenteum.virtopia.ca,179,1218
 http://the-miners.de/Plenteum,179,1221
 https://plenteum.clevery.xyz,179,1222
 https://ple.optimusblue.com,179,1223
-http://plenteum.miner.care/,179,1224
 https://plenteum.my-mining-pool.de,179,1225
 http://cnpool.cc/xcy,231,1226
 https://xcy.cnpool.vip,231,1227
@@ -922,6 +916,7 @@ https://ird.hackerknowledge.de,14,1864
 https://loki.modpool.org,100,1866
 https://pyrex.smartcoinpool.com,61,1868
 http://pool.sevabit.com,273,1869
+https://pool.cutcoin.org,274,1870
 https://xcy.cnpools.space,231,1871
 http://minersrepublic.com,47,1874
 http://sg.ultranote.org,34,1875
@@ -964,6 +959,7 @@ http://pool.ultrapoint.org,181,1948
 http://bdx.superpools.online,257,1949
 http://hashing.center,237,1950
 https://fruitypool.com,237,1951
+http://bestupxpool.sytes.net,237,1952
 http://upxpool.com,237,1954
 https://crypto9coin.cf/upx,237,1955
 https://uplexa.herominers.com,237,1958
@@ -1046,6 +1042,7 @@ https://crypto9coin.cf/bdx,257,2063
 https://easyhash.pro/bdx,257,2064
 https://beldex.smartcoinpool.com,257,2066
 https://beldex.fairhash.org,257,2067
+http://youpool.io/BDX,257,2068
 https://newpool.pw/bdx/,257,2071
 https://pool.saronite.info,236,2072
 https://xrn.hashpool.cc,236,2073
@@ -1085,6 +1082,7 @@ http://xnb.superpools.online,264,2117
 https://caliber.my-mining-pool.de,229,2124
 http://xcash.superpools.online,178,2127
 http://207.180.246.163,259,2130
+http://dego.pool.flowmine.xyz,272,2131
 https://webdego.semipool.com,272,2132
 https://cnpool.cc/dego,272,2134
 https://cx.cryptomine.cx,258,2137
