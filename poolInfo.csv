@@ -152,7 +152,6 @@ http://itns.avensat.com,16,362
 https://cryptoknight.cc/itns,16,363
 https://lethean.minercountry.com,16,364
 https://crypto9coin.cf/b2n,105,366
-http://youpool.io/B2N,105,367
 http://b2n.simpool.xyz,105,369
 http://superiorcoinpool.com,27,370
 https://boolberry.miner.rocks,89,372
@@ -352,6 +351,7 @@ http://youpool.io/MASK,173,876
 https://mask.optimusblue.com,173,877
 http://fredcoinpool.com,219,882
 https://crypto9coin.cf/hosp,221,884
+http://hospitalcoin.net/pool,221,885
 https://hosp.xmining.pro,221,886
 http://www.tritaniummining.com,222,887
 http://youpool.io/FEDG,223,888
@@ -389,6 +389,8 @@ http://webchainpool.com,213,990
 http://web.jokercms.com,213,991
 http://webchain.pool.krunzy.com,213,992
 http://pyrex-pool.tokl.io,61,994
+https://pyrexcoin.my-mining-pool.de,61,995
+https://pyx.cryptohispano.net,61,996
 http://graft.thorshammer.cc,12,997
 https://graftpro.com,12,999
 https://www.dark-mine.su/graft,12,1000
@@ -435,6 +437,7 @@ https://moneroocean.stream,1,1056
 https://bohemianpool.com,1,1057
 https://moriaxmr.com,1,1059
 https://pool.xmr.pt,1,1060
+http://monero.gt,1,1061
 https://xmr.mine.pro,1,1064
 https://myo-xmr.com,1,1065
 https://greenpool.site,1,1066
@@ -1039,7 +1042,6 @@ https://crypto9coin.cf/bdx,257,2063
 https://easyhash.pro/bdx,257,2064
 https://beldex.smartcoinpool.com,257,2066
 https://beldex.fairhash.org,257,2067
-http://youpool.io/BDX,257,2068
 https://newpool.pw/bdx/,257,2071
 https://pool.saronite.info,236,2072
 https://xrn.hashpool.cc,236,2073
@@ -1084,10 +1086,7 @@ https://webdego.semipool.com,272,2132
 https://cnpool.cc/dego,272,2134
 https://cx.cryptomine.cx,258,2137
 https://cx.thepiratemine.nl,258,2138
-http://youpool.io/SEVA,273,2140
-http://youpool.io/TMY,280,2141
 https://pool.bittrader.io,281,2142
-http://youpool.io/TRD,281,2143
 https://crypto9coin.cf/trd,281,2144
 https://crypto9coin.cf/invc,282,2145
 http://xsu.cryptonote.club,276,2146
