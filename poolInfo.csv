@@ -454,7 +454,6 @@ https://xlc.pool.gntl.co.uk,32,1128
 http://pool.parsicoin.net,95,1129
 https://parsicoin.clevery.xyz,95,1130
 https://parsicoin.my-mining-pool.de,95,1132
-https://qrlpool.org,157,1133
 https://qrl.herominers.com,157,1136
 https://pool.letheancoin.com,16,1137
 https://lethean.west-pool.org,16,1138
@@ -479,7 +478,6 @@ https://pool.safexnews.net,212,1167
 http://safex.cryptominingpools.net,212,1168
 https://cryptoknight.cc/safex,212,1169
 https://safex.luckypool.io,212,1170
-https://safex.herominers.com,212,1171
 https://safex.pool.cnpools.space,212,1172
 https://safex.cool-pool.net,212,1173
 http://xca.1isolution.com,178,1177
@@ -859,6 +857,7 @@ https://cryptoknight.cc/swap,262,1805
 https://idpool.majanetwork.com/swap,262,1807
 https://idpool.majanetwork.com/arto,24,1809
 https://fred.cool-pool.net,219,1810
+http://youpool.io/FRED,219,1812
 https://idpool.majanetwork.com/intu,96,1813
 https://pool.bittorium.org,216,1814
 https://pool.raasu.org,216,1815
@@ -868,6 +867,8 @@ https://cryptoknight.cc/bittorium,216,1818
 https://btor.thepiratemine.nl,216,1819
 https://disjampools.us/btor,216,1820
 https://idpool.majanetwork.com/ird,14,1821
+https://idpool.majanetwork.com/etnx,120,1822
+http://youpool.io/XNB,264,1823
 https://cnpool.cc/xnb,264,1824
 https://ryo.nons.xyz,131,1826
 https://idpool.majanetwork.com/ryo,131,1827
@@ -878,7 +879,9 @@ https://idpool.majanetwork.com/ombre,20,1832
 https://idpool.majanetwork.com/haven,31,1833
 https://pool.webchain.pwrnetwork.eu,213,1834
 http://web.minerlagoon.com,213,1835
+https://idpool.majanetwork.com/graft,12,1836
 https://idpool.majanetwork.com/wow,67,1837
+https://idpool.majanetwork.com/xtl,33,1840
 https://plenteum.pool.private-locker.com,179,1841
 https://nbx.cryptonight.mine.nu,256,1842
 https://asiapool.io/bbs,58,1843
@@ -955,7 +958,6 @@ http://173.212.249.18/merge,256,1974
 https://btr.cryptomine.cx,265,1975
 https://freehaven.xmining.pro,262,1978
 https://xfh.luckypool.io,262,1979
-http://vnpools.tk,262,1980
 https://freehaven.smartcoinpool.com,262,1981
 https://aeon.minercountry.com,47,1983
 https://minergate.com,82,1984
