@@ -648,6 +648,7 @@ http://loki.multipool.xyz,100,1469
 https://loki.hashvault.pro,100,1470
 https://loki.solopool.org,100,1471
 https://loki.herominers.com,100,1473
+https://loki.basementpool.org,100,1474
 https://loki.steadyhash.org,100,1476
 https://bloc-mining.eu,113,1477
 https://bloc-mining.asia,113,1478
@@ -767,6 +768,7 @@ https://jyo.luckypool.io,252,1658
 https://mtip.llama.horse,156,1659
 http://the-miners.de/CPA,199,1660
 http://149.28.211.78,256,1662
+https://xtri.hashpool.cc,41,1667
 https://msr.heigh-ho.funkypenguin.co.nz,19,1669
 https://disjampools.us/ple,179,1671
 https://communitypool.org/mtip,156,1673
@@ -775,9 +777,11 @@ https://arms.cryptomine.cx,180,1675
 https://turtle.modpool.org,29,1676
 https://swap.pocketwhale.info,262,1678
 https://swap.bitkitten.xyz,262,1679
+https://xfh.hashpool.cc,262,1681
 https://disjampools.us/swap,262,1684
 https://bitcoinote.my-mining-pool.de,42,1685
 https://bsm.bluerockpools.net,47,1686
+https://rto.hashpool.cc,24,1687
 https://arq.heigh-ho.funkypenguin.co.nz,137,1693
 https://arqidium.smartcoinpool.com,137,1694
 https://arq.pool.gntl.co.uk,137,1695
@@ -1006,7 +1010,6 @@ http://www.coinsforhash.com/fred,219,2046
 http://207.180.246.163/fury,224,2047
 https://xtri.hashpool.cc,277,2048
 https://triton.smartcoinpool.com,277,2049
-https://cryptoknight.cc/triton,277,2050
 https://triton.my-mining-pool.de,277,2051
 https://xtri.minercountry.com,277,2052
 https://webxtri.semipool.com,277,2053
