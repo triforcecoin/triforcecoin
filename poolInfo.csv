@@ -21,6 +21,7 @@ http://sumo.bubblemine.com,26,116
 https://sumo.minercountry.com,26,117
 http://xmc.superpools.online,135,119
 http://dcy.crypto-coins.club,6,122
+http://dcy.mypool.online,6,123
 https://easyhash.pro/dcy,6,124
 http://krb.hashgang.io,18,126
 https://cryptoknight.cc/karbo,18,127
@@ -123,6 +124,7 @@ http://aeon-pool.net,82,315
 https://pool.ryo-currency.com,131,317
 http://pool.ryo-currency.eu,131,318
 http://miner-coin.eu/ryo,131,320
+https://ryo.smartcoinpool.com,131,322
 https://ryo.blockfoundry.org,131,323
 https://ryo.codpool.com,131,324
 https://cryptoknight.cc/ryo,131,327
@@ -185,7 +187,6 @@ http://etnc.magnificentpool.com,158,427
 http://etnc.cnhub.de,158,428
 https://cryptoknight.cc/triton,245,429
 https://triton.my-mining-pool.de,245,430
-https://triton.smartcoinpool.com,245,431
 https://triton.minercountry.com,245,433
 https://trit.codpool.com,245,436
 https://cryptoknight.cc/iridium,14,439
@@ -500,7 +501,6 @@ https://xtri.minercountry.com,245,1192
 https://xtri.semipool.com,245,1193
 https://ttnz.xmining.pro,222,1194
 http://ttnz.m00n.top,222,1195
-https://ttnz.leafpool.com,222,1196
 https://tritanium.smartcoinpool.com,222,1199
 https://crypto9coin.cf/ttnz,222,1200
 https://ttnz.cnpool.vip,222,1201
@@ -584,7 +584,6 @@ https://sumo.semipool.com,26,1342
 http://edollar.poolmining.it,8,1344
 https://edl.easypool.pro,8,1345
 http://youpool.io/CBC,151,1347
-https://vgc.easypool.pro,234,1348
 https://communitypool.org/vgc,234,1350
 http://spes.minercountry.com,87,1352
 https://communitypool.org/spes,87,1353
@@ -956,12 +955,10 @@ https://arq.hackerknowledge.de,137,1961
 https://wow.codpool.com,67,1962
 https://www.enigma-mining.de/pars,95,1963
 https://www.enigma-mining.de/elph,235,1964
-https://triton.smartcoinpool.com,41,1967
 https://xtri.minercountry.com,41,1968
 https://cryptoknight.cc/triton,41,1969
 https://triton.my-mining-pool.de,41,1970
 https://trit.codpool.com,41,1971
-https://triton.smartcoinpool.com,179,1972
 https://nbxpool.com,256,1973
 http://173.212.249.18/merge,256,1974
 https://btr.cryptomine.cx,265,1975
@@ -1014,7 +1011,6 @@ http://www.coinsforhash.com/swap,262,2045
 http://www.coinsforhash.com/fred,219,2046
 http://207.180.246.163/fury,224,2047
 https://xtri.hashpool.cc,277,2048
-https://triton.smartcoinpool.com,277,2049
 https://cryptoknight.cc/triton,277,2050
 https://triton.my-mining-pool.de,277,2051
 https://xtri.minercountry.com,277,2052
@@ -1092,6 +1088,7 @@ https://bloc.hashvault.pro,113,2169
 http://qwc.superpools.online,23,2170
 http://webchain.penguinpool.net,213,2171
 http://arq.superpools.online,137,2172
+https://btor.cryptocoins-digging.space,216,2173
 https://nxm.fruitypool.com,283,2175
 https://nxm.c3pool.com,283,2176
 https://cnpool.cc/nxm,283,2178
