@@ -39,6 +39,7 @@ http://krb.mypool.online,18,138
 http://krb.superpools.online,18,140
 http://krb.sintezpool.com,18,141
 https://easyhash.pro/krb,18,143
+http://pool.dero.live,7,145
 https://easyhash.pro/dero,7,146
 http://dero.superpools.online,7,149
 https://dero.smartcoinpool.com,7,151
@@ -690,8 +691,6 @@ https://haven.luckypool.io,31,1516
 https://xhv.cryptopool.space,31,1520
 https://haven.modpool.org,31,1521
 https://xhv.semipool.com,31,1522
-http://uspool.electroneropulse.org,244,1523
-http://ukpool.electroneropulse.org,244,1524
 https://etnxp.crypto-pool.pro,244,1525
 https://pulse.thorshammer.cc,244,1526
 https://etnxp.hashfactory.online,244,1527
@@ -1135,6 +1134,7 @@ https://fastpool.xyz/xcy,231,2201
 https://arq.cryptonote.club,137,2203
 https://xtridium.minercountry.com,14,2205
 http://turtlepool.ml,29,2206
+https://trtl.steadyhash.org,29,2209
 https://hashblaster.com,263,2211
 https://crypto9coin.cf/bdx,287,2212
 https://hashblaster.com,256,2213
