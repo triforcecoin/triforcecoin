@@ -358,7 +358,6 @@ http://COAL.MyPool.Online,4,839
 http://BIP.MyPool.Online,201,840
 http://NNC.MyPool.Online,77,841
 https://xpp.arhash.xyz,152,843
-https://xpp.cryptohispano.net,152,849
 http://nbr.4miner.me,37,854
 http://mkt.4miner.me,71,855
 http://crep.4miner.me,5,856
@@ -418,7 +417,6 @@ http://web.jokercms.com,213,991
 http://webchain.pool.krunzy.com,213,992
 http://pyrex-pool.tokl.io,61,994
 https://pyrexcoin.my-mining-pool.de,61,995
-https://pyx.cryptohispano.net,61,996
 http://graft.thorshammer.cc,12,997
 https://graftpool.network,12,998
 https://graftpro.com,12,999
@@ -555,7 +553,6 @@ https://cryptonote.social/msr,19,1204
 https://www.dark-mine.su/masari,19,1205
 https://masari.czechiapool.com,19,1208
 https://msr.majanetwork.com,19,1209
-https://msr.solopool.org,19,1210
 https://masari.herominers.com,19,1211
 https://msr.pool.gntl.co.uk,19,1213
 https://msr.go-mine.it,19,1214
@@ -690,11 +687,9 @@ http://bixbite.multipool.xyz,126,1440
 http://coinpoolit.webhop.me/tube,13,1444
 https://bittube.hashvault.pro,13,1446
 https://tube.solopool.org,13,1447
-https://bittube.luckypool.io,13,1451
 https://tube.pool.gntl.co.uk,13,1454
 http://tube.superpools.online,13,1455
 https://tube.semipool.com,13,1456
-https://ita.leafpool.com,15,1457
 https://loki.elasticpool.com,100,1458
 https://cryptonote.social/loki,100,1459
 http://idpool.majanetwork.com/loki,100,1460
@@ -714,9 +709,7 @@ https://bloc-mining.asia,113,1478
 https://bloc.scecf.org,113,1480
 http://bloc.proxpool.com,113,1482
 http://bloc.multipool.xyz,113,1484
-https://bloc.herominers.com,113,1487
 https://pool.saronite.info,114,1489
-https://xrn.majanetwork.com,114,1492
 https://cryptoknight.cc/saronite,114,1493
 https://saronite.hashvault.pro,114,1494
 https://saronite.herominers.com,114,1496
@@ -730,10 +723,11 @@ https://haven.majanetwork.com,31,1509
 https://www.gpumining.ir/haven,31,1513
 https://xhv.solopool.org,31,1514
 https://haven.luckypool.io,31,1516
-https://haven.herominers.com,31,1517
 https://xhv.cryptopool.space,31,1520
 https://haven.modpool.org,31,1521
 https://xhv.semipool.com,31,1522
+http://uspool.electroneropulse.org,244,1523
+http://ukpool.electroneropulse.org,244,1524
 https://etnxp.crypto-pool.pro,244,1525
 https://pulse.thorshammer.cc,244,1526
 https://etnxp.hashfactory.online,244,1527
@@ -1185,7 +1179,6 @@ https://arq.cryptonote.club,137,2203
 https://xtridium.minercountry.com,14,2205
 http://turtlepool.ml,29,2206
 http://trtl.cryptoasiapool.com,29,2207
-http://trtlcoinpool.tk,29,2208
 https://trtl.steadyhash.org,29,2209
 https://hashblaster.com,263,2211
 https://crypto9coin.cf/bdx,287,2212
