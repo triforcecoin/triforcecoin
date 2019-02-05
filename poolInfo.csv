@@ -11,6 +11,7 @@ https://cryptoknight.cc/etn,9,97
 http://etn.proxpool.com,9,98
 http://etn.superpools.online,9,100
 https://easyhash.pro/etn,9,101
+http://etn.bubblemine.com,9,103
 https://sumo.spacepools.org,26,106
 https://sumopool.eu,26,108
 https://sumokoin.miner.rocks,26,109
@@ -397,10 +398,12 @@ http://pyrex-pool.tokl.io,61,994
 https://pyrexcoin.my-mining-pool.de,61,995
 http://graft.thorshammer.cc,12,997
 https://graftpool.network,12,998
+https://graftpro.com,12,999
 https://www.dark-mine.su/graft,12,1000
 http://graft.cryptocrush.cc,12,1001
 http://grftpool.com,12,1002
 https://graft.hashnetwork.net,12,1003
+http://magicpool.my.to,12,1005
 http://graft.cryptocommunity.network,12,1006
 https://graft.aussie-pools.com,12,1007
 http://graft.multipool.xyz,12,1009
@@ -409,6 +412,7 @@ https://graft.herominers.com,12,1011
 https://graft.blockfoundry.org,12,1014
 https://grft.optimusblue.com,12,1016
 https://grft.pool.gntl.co.uk,12,1017
+http://graft.hashing.mine.nu,12,1019
 https://graft.luckypool.io,12,1020
 https://grft.semipool.com,12,1021
 https://graft.smartcoinpool.com,12,1022
@@ -421,6 +425,7 @@ http://wow.superpools.online,67,1033
 https://wownero.modpool.org,67,1034
 http://the-miners.de/fury,224,1035
 https://fury.thepiratemine.nl,224,1037
+https://mutex.almsoft.net,112,1039
 https://mutex.multiminer.us,112,1041
 https://mutex.smartcoinpool.com,112,1042
 https://asiapool.io/mutex,112,1043
@@ -444,6 +449,7 @@ https://cryptonote.social/xmr,1,1068
 https://monero.pool-moscow.ru,1,1070
 http://idpool.majanetwork.com/xmr,1,1071
 https://www.dark-mine.su/monero,1,1074
+https://xmr.skypool.org,1,1075
 https://c3pool.com,1,1079
 https://minergate.com,1,1082
 https://monero.herominers.com,1,1088
@@ -471,6 +477,7 @@ https://qrl.herominers.com,157,1136
 https://pool.letheancoin.com,16,1137
 https://lethean.west-pool.org,16,1138
 https://lethean.blockharbor.net,16,1139
+https://www.gpumining.ir/lethean,16,1140
 https://cryptoknight.cc/lethean,16,1141
 https://lethean.fairhash.org,16,1142
 https://lethean.blockfoundry.org,16,1145
@@ -478,6 +485,8 @@ https://lethean.my-mining-pool.de,16,1146
 https://lthn.pool.gntl.co.uk,16,1147
 http://intense.hashing.mine.nu,16,1148
 https://elya.my-mining-pool.de,43,1152
+https://stellite.almsoft.net,33,1154
+https://xtl.solopool.org,33,1159
 https://stellite.herominers.com,33,1160
 https://xtl.pool.gntl.co.uk,33,1162
 https://xtl.blokspace.io,33,1163
@@ -503,6 +512,7 @@ https://xtri.minercountry.com,245,1192
 https://xtri.semipool.com,245,1193
 https://ttnz.xmining.pro,222,1194
 http://ttnz.m00n.top,222,1195
+https://ttnz.leafpool.com,222,1196
 http://cnpool.cc/ttnz,222,1198
 https://tritanium.smartcoinpool.com,222,1199
 https://crypto9coin.cf/ttnz,222,1200
@@ -512,6 +522,7 @@ https://cryptonote.social/msr,19,1204
 https://www.dark-mine.su/masari,19,1205
 https://masari.czechiapool.com,19,1208
 https://msr.majanetwork.com,19,1209
+https://masari.herominers.com,19,1211
 https://msr.pool.gntl.co.uk,19,1213
 https://msr.go-mine.it,19,1214
 https://masari.modpool.org,19,1215
@@ -539,8 +550,10 @@ https://aeon.semipool.com,82,1246
 https://arms01.p2poolmining.us,180,1247
 https://arms.cnpools.space,180,1248
 https://communitypool.org/2acoin,180,1249
+https://trtl.ninja,29,1250
 https://cryptonote.social/trtl,29,1252
 https://trtl.llama.horse,29,1255
+https://trtl.hackerknowledge.de,29,1256
 https://turtle.hashvault.pro,29,1257
 https://turtle.miner.rocks,29,1259
 https://easyhash.pro/btcn,42,1260
@@ -559,6 +572,7 @@ https://pool.arqma.com,137,1292
 https://arq.semipool.com,137,1294
 https://pool.conceal.network,142,1295
 https://ccx.scecf.org,142,1296
+https://conceal.herominers.com,142,1298
 https://ccx.go-mine.it,142,1299
 https://conceal.modpool.org,142,1301
 https://conceal.my-mining-pool.de,142,1302
@@ -569,6 +583,7 @@ https://ird.majanetwork.com,14,1310
 https://ird.semipool.com,14,1311
 https://xao.blokspace.io,30,1313
 http://ukpool.electronero.org,120,1315
+http://etnx.hashfactory.online,120,1316
 https://etnx.semipool.com,120,1318
 http://pool.geemexplorer.com,116,1319
 https://dero.herominers.com,7,1322
@@ -585,6 +600,7 @@ https://sumo.semipool.com,26,1342
 http://edollar.poolmining.it,8,1344
 https://edl.easypool.pro,8,1345
 http://youpool.io/CBC,151,1347
+https://vgc.easypool.pro,234,1348
 https://communitypool.org/vgc,234,1350
 http://spes.minercountry.com,87,1352
 https://communitypool.org/spes,87,1353
@@ -605,11 +621,13 @@ https://karbo.herominers.com,18,1382
 https://krb.semipool.com,18,1385
 http://pool.balkancoin.org,49,1386
 http://bkc.bubblemine.com,49,1388
+https://bkc.go-mine.it,49,1390
 https://crypto9coin.cf/bdx,240,1395
 https://beldex.fairhash.org,240,1397
 http://pool01.lithiumbit.com,101,1398
 https://communitypool.org/inc,81,1401
 http://veronite.ml,191,1403
+https://xvv.blokspace.io,191,1406
 https://ryo.bohemianpool.com,131,1408
 https://ryo.majanetwork.com,131,1409
 https://ryo.solopool.org,131,1410
@@ -665,6 +683,7 @@ https://ombre-pool.theskynet.xyz,20,1503
 https://ombre.majanetwork.com,20,1504
 https://ombre.my-mining-pool.de,20,1506
 https://havencoin-pool.com,31,1508
+https://haven.majanetwork.com,31,1509
 https://www.gpumining.ir/haven,31,1513
 https://xhv.solopool.org,31,1514
 https://haven.luckypool.io,31,1516
@@ -799,6 +818,7 @@ https://cch.hashpool.cc,176,1712
 https://cch.bluerockpools.net,176,1713
 https://ksn.thorshammer.cc,169,1714
 https://tube.hashpool.cc,13,1715
+https://bittube.modpool.org,13,1717
 https://xta.codpool.com,15,1718
 https://loki.hashpool.cc,100,1719
 https://loki.majanetwork.com,100,1720
@@ -815,6 +835,7 @@ https://disjampools.us/fury,224,1732
 https://cpa.cryptomine.cx,199,1734
 https://cpacoin.my-mining-pool.de,199,1735
 https://cpa.multiminer.us,199,1736
+https://xmr.cryptoblock.uk,1,1737
 https://xmr.hashpool.cc,1,1739
 https://xmr.majanetwork.com,1,1741
 https://monero.modpool.org,1,1742
@@ -829,6 +850,7 @@ https://qrl.hoku.to,157,1752
 https://lthn.bluerockpools.net,16,1753
 http://london-uk.pools.minexca.com,178,1755
 https://disjampools.us/xcash,178,1758
+https://hashblaster.com,263,1759
 https://xmlc.nbxpool.com,263,1761
 https://nbx.hackerknowledge.de,256,1762
 https://nbx.heigh-ho.funkypenguin.co.nz,256,1763
@@ -892,6 +914,7 @@ https://arqma.pool.private-locker.com,137,1844
 https://asiapool.io/conceal,142,1845
 https://loki.miningpool.online,100,1847
 https://ombre.pool.private-locker.com,20,1849
+https://asiapool.io/wownero,67,1851
 https://btr.cryptomine.cx,271,1856
 https://nibbleclassic.my-mining-pool.de,256,1858
 https://fredenergy.my-mining-pool.de,219,1862
@@ -933,10 +956,12 @@ https://minehycon.com,269,1931
 http://jyo.minecrypto.nl,252,1932
 https://disjampools.us/jyo,252,1933
 https://newpool.pw/xcash/,178,1934
+http://www.degopool.tk,272,1937
 http://pool.xsubyte.org,276,1940
 https://crypto9coin.cf/xsu,276,1941
 https://xta.leafpool.com,15,1942
 https://mcafee.safex.io,212,1945
+http://pool.ultrapoint.org,181,1948
 http://bdx.superpools.online,257,1949
 http://hashing.center,237,1950
 https://fruitypool.com,237,1951
@@ -944,6 +969,7 @@ http://bestupxpool.sytes.net,237,1952
 http://upxpool.com,237,1954
 https://crypto9coin.cf/upx,237,1955
 https://upx.leafpool.com,237,1956
+https://uplexa.herominers.com,237,1958
 https://cnpool.cc/upx,237,1959
 https://arqma.minercountry.com,137,1960
 https://arq.hackerknowledge.de,137,1961
@@ -1003,6 +1029,7 @@ https://newpool.pw/pk/,107,2029
 https://newpool.pw/krb/,18,2030
 https://newpool.pw/bdx/,240,2031
 https://www.fortunepool.pw,12,2037
+http://hosp.rubypool.com,221,2039
 http://the-miners.de/lethean,16,2043
 http://www.coinsforhash.com/nibble,256,2044
 http://www.coinsforhash.com/swap,262,2045
@@ -1010,6 +1037,7 @@ http://www.coinsforhash.com/fred,219,2046
 http://207.180.246.163/fury,224,2047
 https://xtri.hashpool.cc,277,2048
 https://triton.smartcoinpool.com,277,2049
+https://cryptoknight.cc/triton,277,2050
 https://triton.my-mining-pool.de,277,2051
 https://xtri.minercountry.com,277,2052
 https://webxtri.semipool.com,277,2053
@@ -1027,6 +1055,7 @@ https://xrn.hashpool.cc,236,2073
 https://cryptoknight.cc/saronite,236,2074
 https://saronite.hashvault.pro,236,2075
 https://saronite.miner.rocks,236,2076
+https://saronite.herominers.com,236,2078
 https://idpool.majanetwork.com/xrn,236,2079
 http://pool.coin42.co,266,2081
 http://the-miners.de/FRTY,266,2082
@@ -1075,6 +1104,7 @@ http://vgc.cryptonote.club,234,2148
 https://asiapool.io/italo,15,2149
 http://bloc.cryptonote.club,113,2150
 http://zls.superpools.online,217,2151
+http://web.poolhub.org,213,2152
 https://grftpool.io,12,2153
 https://communitypool.org/arqma,137,2156
 https://btor.cryptomine.cx,216,2157
@@ -1104,16 +1134,21 @@ https://pk.minercountry.com,2,2190
 https://zls.cryptonote.club,217,2191
 https://www.coinsforhash.com/fury,224,2192
 https://ttnz.cryptonote.club,222,2193
+http://39.106.143.90,142,2194
 https://xnb.cryptonote.club,264,2196
 http://pool.investcoin.pro,282,2197
 https://cnpool.cc/invc,282,2198
 https://asiapool.io/stellite,33,2199
 https://xtridium.minercountry.com,41,2200
 https://fastpool.xyz/xcy,231,2201
+http://hitc.catpool.club,286,2202
 https://arq.cryptonote.club,137,2203
+http://dego.catpool.club,272,2204
 https://xtridium.minercountry.com,14,2205
 http://turtlepool.ml,29,2206
+http://trtl.cryptoasiapool.com,29,2207
 https://trtl.steadyhash.org,29,2209
+http://nxm.catpool.club,283,2210
 https://hashblaster.com,263,2211
 https://crypto9coin.cf/bdx,287,2212
 https://hashblaster.com,256,2213
