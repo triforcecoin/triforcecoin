@@ -112,6 +112,7 @@ http://stellite.smartcoinpool.com,33,298
 https://stellite.my-mining-pool.de,33,299
 https://xtl.steadyhash.org,33,300
 http://stellite.ethospool.org,33,301
+https://xtl.cryptoblock.uk,33,302
 http://pocketminer.co.uk/pool/xtl,33,304
 https://aeon-pool.com,82,305
 https://aeonhash.com,82,306
@@ -123,6 +124,7 @@ https://aeon-pool.mine.nu,82,313
 http://aeon-pool.net,82,315
 https://pool.ryo-currency.com,131,317
 http://pool.ryo-currency.eu,131,318
+http://pool.ryo-currency.ru,131,319
 http://miner-coin.eu/ryo,131,320
 https://ryo.smartcoinpool.com,131,322
 https://ryo.blockfoundry.org,131,323
@@ -187,6 +189,7 @@ http://etnc.magnificentpool.com,158,427
 http://etnc.cnhub.de,158,428
 https://cryptoknight.cc/triton,245,429
 https://triton.my-mining-pool.de,245,430
+https://triton.smartcoinpool.com,245,431
 https://triton.minercountry.com,245,433
 https://trit.codpool.com,245,436
 https://cryptoknight.cc/iridium,14,439
@@ -536,7 +539,6 @@ https://aeon.semipool.com,82,1246
 https://arms01.p2poolmining.us,180,1247
 https://arms.cnpools.space,180,1248
 https://communitypool.org/2acoin,180,1249
-https://trtl.ninja,29,1250
 https://cryptonote.social/trtl,29,1252
 https://trtl.llama.horse,29,1255
 https://turtle.hashvault.pro,29,1257
@@ -791,7 +793,6 @@ https://ryo.bluerockpools.net,131,1711
 https://cch.hashpool.cc,176,1712
 https://cch.bluerockpools.net,176,1713
 https://ksn.thorshammer.cc,169,1714
-https://bittube.modpool.org,13,1717
 https://xta.codpool.com,15,1718
 https://loki.majanetwork.com,100,1720
 https://bloc.modpool.org,113,1721
@@ -986,7 +987,6 @@ https://newpool.pw/pk/,107,2029
 https://newpool.pw/krb/,18,2030
 https://newpool.pw/bdx/,240,2031
 https://www.fortunepool.pw,12,2037
-http://hosp.rubypool.com,221,2039
 http://the-miners.de/lethean,16,2043
 http://www.coinsforhash.com/nibble,256,2044
 http://www.coinsforhash.com/swap,262,2045
