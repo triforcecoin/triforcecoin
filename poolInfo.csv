@@ -394,6 +394,7 @@ http://web.jokercms.com,213,991
 http://webchain.pool.krunzy.com,213,992
 http://pyrex-pool.tokl.io,61,994
 https://pyrexcoin.my-mining-pool.de,61,995
+https://pyx.cryptohispano.net,61,996
 http://graft.thorshammer.cc,12,997
 https://graftpool.network,12,998
 https://www.dark-mine.su/graft,12,1000
@@ -421,6 +422,7 @@ http://wow.superpools.online,67,1033
 https://wownero.modpool.org,67,1034
 http://the-miners.de/fury,224,1035
 https://fury.thepiratemine.nl,224,1037
+https://mutex.almsoft.net,112,1039
 https://mutex.multiminer.us,112,1041
 https://mutex.smartcoinpool.com,112,1042
 https://asiapool.io/mutex,112,1043
@@ -601,7 +603,6 @@ http://gdm.bubblemine.com,125,1370
 http://superblockchain.con-ip.com/gdm,125,1371
 https://communitypool.org/b2b,2,1373
 http://coal.mining.garden,4,1374
-https://dashboard.bytecoin.party,3,1377
 https://plura.llama.horse,21,1379
 https://karbo.herominers.com,18,1382
 https://krb.semipool.com,18,1385
@@ -913,7 +914,6 @@ http://ap.swap.pool.krunzy.com,262,1916
 http://minersrepublic.com/swap,262,1917
 http://fred.communitypool.org,219,1920
 http://the-miners.de/Arqma,137,1921
-https://webccx.semipool.com,142,1922
 https://xao.codpool.com,30,1924
 https://newpool.pw/xnb,264,1925
 http://xavieron.us/citicash,176,1927
@@ -993,7 +993,6 @@ https://newpool.pw/pk/,107,2029
 https://newpool.pw/krb/,18,2030
 https://newpool.pw/bdx/,240,2031
 https://www.fortunepool.pw,12,2037
-http://hosp.rubypool.com,221,2039
 http://the-miners.de/lethean,16,2043
 http://www.coinsforhash.com/nibble,256,2044
 http://www.coinsforhash.com/swap,262,2045
