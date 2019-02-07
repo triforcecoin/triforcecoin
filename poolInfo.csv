@@ -67,6 +67,7 @@ https://web.xmrpool.eu,1,192
 http://monero.miners.pro,1,193
 https://pooldd.com,1,194
 https://monero.miner.rocks,1,195
+http://xmr-pool.ucrypto.net,1,197
 https://mychainpools.com,1,198
 https://xmr.omine.org,1,199
 https://cryptoknight.cc/monero,1,200
@@ -101,6 +102,7 @@ https://graft.cool-pool.net,12,255
 http://graftpool.graft.mnlabs.net,12,262
 https://mining.bit.tube,13,264
 https://cryptoknight.cc/ipbc,13,266
+https://tube.bluerockpools.net,13,269
 https://newpool.pw/tube,13,270
 https://tube.steadyhash.org,13,271
 https://cryptoknight.cc/loki,100,274
@@ -136,6 +138,7 @@ https://cryptoknight.cc/ryo,131,327
 https://cryptoknight.cc/msr,19,328
 http://id.masari.network,19,330
 https://msr.optimusblue.com,19,336
+https://msr.bluerockpools.net,19,337
 https://msr.codpool.com,19,338
 https://masari.blockfoundry.org,19,340
 http://pool.batminer.network,19,341
@@ -163,6 +166,7 @@ http://mining.blue,89,373
 http://bbr.miningclub.info,89,374
 http://mbkpool.info,89,376
 http://beta.ultranote.org,34,378
+http://gamma.ultranote.org,34,380
 https://xmv.codpool.com,103,382
 https://cryptoknight.cc/monerov,103,383
 http://xmv.superpools.online,103,387
@@ -224,6 +228,7 @@ http://xca.mineme.stream,178,490
 https://xca.bluerockpools.net,178,491
 http://xca.rubypool.com,178,492
 https://xca.cryptogains.fr,178,493
+http://xdrop.simpool.xyz,155,495
 https://42.cnpools.space,172,500
 http://pool.coin42.co,172,501
 http://mutex.hashparty.io,112,505
@@ -268,6 +273,7 @@ http://pool.dopplersite.com,146,614
 http://104.168.144.234,153,620
 http://66.42.67.182,154,621
 http://qrl.quantapool.com,157,623
+http://131.221.32.79,168,630
 https://pool.koson-currency.com,169,631
 https://crypto9coin.cf/drgl,171,632
 https://crypto9coin.cf/mox,175,635
